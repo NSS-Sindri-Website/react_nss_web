@@ -6,10 +6,11 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js";
 const Navbar = () => {
   return (
     <>
-      <div className="container-fluid">
-        <nav className="navbar navbar-expand-sm">
+      <nav className="navbar sticky-top navbar-expand-sm">
+        <div className="container-fluid">
           <a href="/" className="navbar-brand">
             <img
+              className="navBit"
               src="images/bitLogo.png"
               alt="logo"
               width="33"
@@ -17,6 +18,7 @@ const Navbar = () => {
               srcSet=""
             />
             <img
+              className="navNss"
               src="images/nssLogo.png"
               alt="logo"
               width="38"
@@ -65,8 +67,8 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-        </nav>
-      </div>
+        </div>
+      </nav>
     </>
   );
 };
