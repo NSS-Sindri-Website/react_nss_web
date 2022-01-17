@@ -2,6 +2,8 @@ import React from "react";
 // -----------importing bootstrap files---------------
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js";
+import NavDropdown from "react-bootstrap/NavDropdown";
+import "bootstrap/dist/css/bootstrap.min.css";
 // ------------------------------------------------------
 const Navbar = () => {
   return (
@@ -45,16 +47,41 @@ const Navbar = () => {
                   Home
                 </a>
               </li>
-              <li>
-                <a href="/weather" className="nav-link">
-                  Events
-                </a>
-              </li>
-              <li>
-                <a href="/about" className="nav-link">
-                  Gallery
-                </a>
-              </li>
+              <NavDropdown title="Events" id="basic-nav-dropdown">
+                <NavDropdown.Item href="#action/3.1">
+                  <p className="droplinks"> 2021</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1">
+                  <p className="droplinks"> 2020</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.2">
+                  <p className="droplinks"> 2019</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.3">
+                  <p className="droplinks"> 2018</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.4">
+                  <p className="droplinks"> 2017</p>
+                </NavDropdown.Item>
+              </NavDropdown>
+              <NavDropdown title="Gallery" id="basic-nav-dropdown">
+                <NavDropdown.Item href="#action/3.1">
+                  <p className="droplinks"> 2021</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1">
+                  <p className="droplinks"> 2020</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.2">
+                  <p className="droplinks"> 2019</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.3">
+                  <p className="droplinks"> 2018</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.4">
+                  <p className="droplinks"> 2017</p>
+                </NavDropdown.Item>
+              </NavDropdown>
+
               <li>
                 <a href="/about" className="nav-link">
                   About US
@@ -69,6 +96,7 @@ const Navbar = () => {
           </div>
         </div>
       </nav>
+      {/* --------------------------------------------------------- */}
     </>
   );
 };
