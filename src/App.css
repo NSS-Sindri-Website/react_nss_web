@@ -10,13 +10,15 @@
 }
 .navbar-toggler-icon {
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
-
   width: 2em;
   height: 2em;
   border-radius: 0.5rem;
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 8e74d83a5200918aa94b8874945a31fcbfafc35a
 .navbar {
   z-index: 99;
   background-color: #303983;
@@ -25,60 +27,47 @@
 }
 @media (max-width: 576px) {
   .navbar {
-    height: 7vh;
+    height: 5.5vh;
   }
 }
 @media (max-width: 411px) {
   .navbar {
-    height: 7vh;
+    height: 6vh;
   }
 }
 @media (max-width: 360px) {
   .navbar {
-    height: 8vh;
+    height: 7vh;
   }
 }
-@media (max-height: 823px) and (min-height: 821px) {
+@media (max-height: 801px) and (min-height: 799px) {
   .navbar {
-    height: 6vh;
+    height: 7.3vh;
   }
 }
-
-@media (max-height: 568px) and (min-height: 567px) {
-  .navbar {
-    height: 9vh;
-  }
-}
-
 @media (max-height: 667px) and (min-height: 666px) {
   .navbar {
-    height: 7.8vh;
-  }
-}
-
-@media (max-height: 736px) and (min-height: 735px) {
-  .navbar {
-    height: 6.9vh;
-  }
-}
-@media (max-height: 812px) and (min-height: 811px) {
-  .navbar {
-    height: 6.4vh;
+    height: 7.6vh;
   }
 }
 @media (max-height: 1024px) and (min-height: 1023px) {
   .navbar {
-    height: 5.9vh;
-  }
-}
-@media (max-height: 1366px) and (min-height: 1365px) {
-  .navbar {
-    height: 4.5vh;
+    height: 5.8vh;
   }
 }
 @media (max-height: 720px) and (min-height: 719px) {
   .navbar {
-    height: 8vh;
+    height: 7vh;
+  }
+}
+@media (max-height: 1181px) and (min-height: 1179px) {
+  .navbar {
+    height: 5vh;
+  }
+}
+@media (max-height: 1369px) and (min-height: 1367px) {
+  .navbar {
+    height: 4.3vh;
   }
 }
 .navbar-brand {
@@ -129,32 +118,217 @@
     font-size: 1.7rem;
   }
 }
-/* ------------------------Image Carousel CSS--------------------------------- */
-.carousel {
+.droplinks {
+  color: white;
+  padding: 0rem 3rem;
+  margin-bottom: 0;
+}
+.droplinks:hover {
+  color: blue;
+  transition: all 0.3s ease-in;
+}
+.navbar-nav .dropdown-menu {
+  background-color: #303983;
+}
+/* ---------------------newCarousel Css------------------ */
+.imgLeft {
+  display: relative;
+  display: flex;
+  background-color: rgb(28 31 84 / 86%);
+}
+.imgLeft::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: #000;
+  opacity: 0.7;
+}
+.lefti {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 1rem;
+
+  color: white;
+  z-index: 3;
+  font-weight: 600;
+}
+.heading {
+  font-size: 4rem;
+  text-align: center;
+}
+.quote {
+  text-align: center;
+}
+.caroImg {
   height: 70vh;
 }
-.carousel-item {
-  height: 70vh;
+.capi {
+  position: relative;
+  top: -14rem;
+  left: -21rem;
+  z-index: 3;
+}
+.cbtn {
+  background-color: #303983;
+  cursor: pointer;
+  position: relative;
+  top: 1rem;
+  padding: 1.5rem 2.5rem;
+  border-radius: 3.75rem;
+  line-height: 1.5rem;
+  font-size: 1.8rem;
+  border: 1px solid #012880;
+  background-image: linear-gradient(-180deg, #9b89ff 0%, #303882 100%);
+  box-shadow: 0rem 0.25rem 0 rgb(22 75 195 / 50%),
+    0 -0.25rem 1.5rem rgb(19 17 143) inset,
+    0 0.75rem 7.5rem rgb(255 255 255 / 40%) inset,
+    0 0.25rem -0.5rem 0 rgb(70 144 207) inset;
+}
+.cbtn span {
+  color: transparent;
+  background-image: linear-gradient(0deg, #5c69a9 0%, #fefafd 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  color: white;
+}
+.cbtn::before {
+  content: "";
+  display: block;
+  height: 0.25rem;
+  position: absolute;
+  top: 0.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 7.5rem);
+  background: #fff;
+  border-radius: 100%;
+
+  opacity: 0.7;
+  background-image: linear-gradient(
+    -270deg,
+    rgba(255, 255, 255, 0) 0%,
+    #ffffff 20%,
+    #ffffff 80%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+.cbtn::after {
+  content: "";
+  display: block;
+  height: 0.25rem;
+  position: absolute;
+  bottom: 0.75rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 7.5rem);
+  background: #fff;
+  border-radius: 100%;
+  filter: blur(1px);
+  opacity: 0.05;
+  background-image: linear-gradient(
+    -270deg,
+    rgba(255, 255, 255, 0) 0%,
+    #ffffff 20%,
+    #ffffff 80%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+@media (max-width: 576px) {
+  .caroImg {
+    height: 37vh;
+    width: 100%;
+  }
+  .imgLeft {
+    height: 37vh;
+  }
+  .capi {
+    top: -8rem;
+    left: 1rem;
+  }
+  .cbtn {
+    padding: 1.3rem 2.3rem;
+  }
 }
 @media (max-height: 1024px) and (min-height: 1023px) {
-  .carousel {
-    height: 50vh;
-  }
-}
-@media (max-height: 1366px) and (min-height: 1365px) {
-  .carousel {
-    height: 50vh;
-  }
-}
-@media (max-height: 720px) and (min-height: 719px) {
-  .carousel {
-    height: 40vh;
-  }
-}
-
-@media (max-width: 576px) {
-  .carousel {
+  .caroImg {
     height: 37vh;
   }
 }
-/* ---------------------About Css------------------ */
+@media (max-height: 1369px) and (min-height: 1365px) {
+  .caroImg {
+    height: 37vh;
+  }
+  .capi {
+    top: -16rem;
+    left: 4rem;
+  }
+}
+@media (max-height: 720px) and (min-height: 719px) {
+  .caroImg {
+    height: 37vh;
+  }
+  .capi {
+    top: -7rem;
+    left: -12rem;
+  }
+  .capi h1 {
+    font-size: 1.2rem;
+  }
+}
+@media (max-height: 1024px) and (min-height: 1023px) {
+  .caroImg {
+    width: 52%;
+  }
+  .capi {
+    top: -11rem;
+    left: -18rem;
+  }
+  .capi h1 {
+    font-size: 1.8rem;
+  }
+}
+@media (max-height: 601px) and (min-height: 599px) {
+  .caroImg {
+    width: 52%;
+  }
+  .capi {
+    top: -13rem;
+    left: -21rem;
+  }
+  .capi h1 {
+    font-size: 1.8rem;
+  }
+}
+@media (max-height: 801px) and (min-height: 799px) {
+  .caroImg {
+    width: 54%;
+  }
+  .capi {
+    top: -19rem;
+    left: -25rem;
+  }
+}
+@media (max-height: 721px) and (min-height: 719px) {
+  .caroImg {
+    width: 54%;
+  }
+  .heading {
+    font-size: 2rem;
+  }
+}
+@media (max-height: 1181px) and (min-height: 1179px) {
+  .capi {
+    top: -32rem;
+    left: 1rem;
+  }
+}
+a.carousel-control-next {
+  z-index: 5;
+}

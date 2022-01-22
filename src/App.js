@@ -1,5 +1,6 @@
 import "./App.css";
 // -------------Importing components----------------
+<<<<<<< HEAD
 
 // import Events from "./conponent/Events";
 import Navbar from "./Conponent/Navbar";
@@ -11,6 +12,11 @@ import { BrowserRouter, Route, Routes, Link } from "react-router-dom";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 
+=======
+// import Carousel from "./Carousel";
+import NewCarousel from "./NewCarousel";
+import Navbar from "./Navbar";
+>>>>>>> 8e74d83a5200918aa94b8874945a31fcbfafc35a
 //---------------------------------------------------
 
 function App() {
@@ -19,6 +25,7 @@ function App() {
     <>
     <BrowserRouter>
       <Navbar />
+<<<<<<< HEAD
       <nav className="navbar sticky-top navbar-expand-sm" style={{borderRight:"0px"}}>
       <div className="container-fluid" style={{marginRight:"0px"}}>
         <a as={Link} to="/" className="navbar-brand">
@@ -100,6 +107,9 @@ function App() {
       <br></br>
       
       </BrowserRouter>
+=======
+      <NewCarousel />
+>>>>>>> 8e74d83a5200918aa94b8874945a31fcbfafc35a
     </>
   );
 }
