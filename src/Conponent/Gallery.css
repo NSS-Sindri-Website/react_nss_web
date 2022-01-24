@@ -2,6 +2,7 @@
     background: linear-gradient(rgba(2, 2, 2, 0.7), rgba(0, 0, 0, 0.9)), url("img1.jpg") fixed center center;
     background-size: cover;
     padding: 60px 0;
+    margin-top: 15px;
   }
   
   .cta h3 {
@@ -31,4 +32,7 @@
   .cta .cta-btn:hover {
     background: #8fc04e;
     border: 2px solid #8fc04e;
+  }
+  #cta{
+    margin-top: 15px;
   }
