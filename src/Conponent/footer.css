@@ -1,93 +1,89 @@
 .row-footer {
-    display:inline-flexbox;
-    
+  display: inline-flexbox;
 }
-ul, li{
-    list-style: none;
+ul,
+li {
+  list-style: none;
 }
-.cover{
-    background-color: rgb(5, 5, 39);
-    margin: 0;
-    color: white;
-    padding-top: 20px;
-    padding-bottom: 0;
-    width: 100%;
-    
+.cover {
+  background-color: rgb(5, 5, 39);
+  margin: 0;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 0;
+  width: 100%;
+  /* background-color: rebeccapurple; */
 }
-.colcircle{
-    width: 40px;
-    height: 40px;
-    background-color: white;
-    border-radius: 50%;
-    
+.colcircle {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border-radius: 50%;
 }
-.full{
-   
-    background-color: rgb(5, 5, 39);
-    width: 100%;
-    padding-top: 2em;
-    margin-top: 40px;
-
-    
-
-
+.colcircle img {
+  margin-top: 0.8rem;
+  height: 2.5rem;
 }
-
-.sizeofdiv{
-    margin-top: 3em;
-    /* width:2em; */
-    width: 400px;
-    margin-left: 20px;
-    margin-right: 20px;
-    align-items: center;
-    align-content: center;
-    align-self: center;
-    text-align: center;
-    margin: auto;
-   
-
-
-}
-.pro{
-    width: 100%;
-  
-   
-    margin-top: 40px;
-}
-.first{
-    background-color: rgb(6, 6, 39);
-    color: white;
-}
-.pro-inner{
-    background-color: black;
-}
-.copyright{
-    text-align: center;
-    margin-top: 3em;
-    color: burlywood;
-}
-hr{
-    width: 300px;
-    text-align: center;
-    align-items: center;
-    align-self: center;
-    align-content: center;
-    margin-left: 50px;
-    padding-left: 50px;
-    text-align: right;
-
-}
-.linkcolor{
-    color: ghostwhite;
-    list-style: none;
-    font-style: none;
-    font-size: 11.5px;
-    font-style: none;
-    margin-bottom: 13px;
-}
-.mar{
-    font-style: 20px;
-    margin-bottom: 23px;
+.full {
+  background-color: rgb(5, 5, 39);
+  width: 100%;
+  padding-top: 2em;
+  margin-top: 40px;
+  /* background-color: red; */
 }
 
+.sizeofdiv {
+  margin-top: 3em;
+  /* width:2em; */
+  width: 400px;
+  margin-left: 20px;
+  margin-right: 20px;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  text-align: center;
+  margin: auto;
+}
+.pro {
+  width: 100%;
 
+  margin-top: 40px;
+}
+.first {
+  background-color: rgb(6, 6, 39);
+  color: white;
+}
+.pro-inner {
+  background-color: black;
+}
+.copyright {
+  text-align: center;
+  margin-top: 3em;
+  color: burlywood;
+}
+hr {
+  width: 300px;
+  text-align: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  margin-left: 50px;
+  padding-left: 50px;
+  text-align: right;
+}
+.linkcolor {
+  color: ghostwhite;
+  list-style: none;
+  font-style: none;
+  font-size: 11.5px;
+  font-style: none;
+  margin-bottom: 13px;
+  text-decoration: none;
+}
+.mar {
+  font-style: 20px;
+  margin-bottom: 23px;
+}
+/* .compLinkas {
+  background-color: aqua;
+} */
