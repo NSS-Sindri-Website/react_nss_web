@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 // import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 import "../App.css";
-
+import NavDropdown from "react-bootstrap/NavDropdown";
 function Navbar() {
   return (
     <div>
@@ -49,11 +49,35 @@ function Navbar() {
                   Home
                 </Link>
               </li>
-              <li>
-                <Link as={Link} to="/Eventdiscription" className="nav-link">
-                  Events
-                </Link>
-              </li>
+
+              <NavDropdown title="Members" id="basic-nav-dropdown">
+                <NavDropdown.Item as={Link} to="/M17" href="#m1">
+                  <p className="droplinks"> 2017</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/M18" href="#m2">
+                  <p className="droplinks"> 2018</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/M19" href="#m3">
+                  <p className="droplinks"> 2019</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/M20" href="#m4">
+                  <p className="droplinks"> 2020</p>
+                </NavDropdown.Item>
+              </NavDropdown>
+              <NavDropdown title="Events" id="basic-nav-dropdown">
+                <NavDropdown.Item as={Link} to="/E22" href="#e1">
+                  <p className="droplinks"> 2021-22</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/E21" href="#e1">
+                  <p className="droplinks"> 2020-21</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/E20" href="#e2">
+                  <p className="droplinks">2019-20</p>
+                </NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/E19" href="#e3">
+                  <p className="droplinks">2018-19</p>
+                </NavDropdown.Item>
+              </NavDropdown>
               <li>
                 <Link as={Link} to="/GalleryFullPage" className="nav-link">
                   Gallery

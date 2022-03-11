@@ -32,7 +32,7 @@ const RightSide = (props) => {
 const EventYear = (props) => {
   return (
     <>
-      <div className="eventYear">
+      <div className="eventYear" id={props.id}>
         <div className="eventHeading">
           <h1>{props.eventYear}</h1>
         </div>
@@ -43,7 +43,26 @@ const EventYear = (props) => {
 const Eventsdiscription = () => {
   return (
     <div className="MainEventCon">
-      <EventYear eventYear="2020-21" />
+      <EventYear eventYear="2021-22" id="e1" />
+      <LeftSide
+        src="images/shirt.webp"
+        eventName="T-Shirt Design Contest"
+        desc="A most artistic online event for designing cool T-shirt designs for NSS BIT SINDRI.  It was a great opportunity for participants for showcasing their wonderful designing skill as ‘designing’ is an artistic ability and just pure creativity. Participants were  given full freedom for unleashing their creativity with only limitation that the design must contain logo of NSS and BIT SINDRI. And the participants had indeed come up with awesome wonderful designs.
+   "
+        desc1="Date :- 13th Jan - 17th Feb, 2022."
+      />
+      <RightSide
+        src="images/wow.webp"
+        eventName="W.O.W(War of Words)"
+        desc="(W. 0. W) WAR OF WORDS :
+ a live online debate competition was organised by NSS BIT SINDRI, with the motive to share and gain knowledge.
+50 participants from BIT SINDRI and other institutes from all over INDIA participated in WOW.All the participants came up with enthusiastic and informative speeches. And they heat the meet with their rebuttals, their questions and with their befitting answers to them.And WAR OF WORDS with the tag line LET'S DEBATE IT! turned out to be one of the most successful of event of NSS BIT SINDRI."
+        desc1="Date: ROUND DEBATE COMPETITION
+QUALIFICATION HEAT (25th January, 2022) &
+FINAL CHAPTER 
+(26th JANUARY, 2022)."
+      />
+      <EventYear eventYear="2020-21" id="e1" />
       <LeftSide
         src="images/V.jpg"
         eventName="Vriksharopan"
@@ -114,7 +133,7 @@ const Eventsdiscription = () => {
 "
         desc1="Date: -  4th Oct to 10th Oct, 2021."
       />
-      <EventYear eventYear="2019-20" />
+      <EventYear eventYear="2019-20" id="e2" />
       <RightSide
         src="images/scre.jpg"
         eventName="Webinar on Food Production and Animal Rights."
@@ -124,7 +143,7 @@ const Eventsdiscription = () => {
         desc1=" Date: 7th June, 2020."
       />
       <LeftSide
-        src="images/au.jpg"
+        src="images/vote.png"
         eventName="Awareness Video On 15th August, 2020"
         desc="On 15th August 2020, a video was posted by NSS BIT Sindri on social media titled “Be the change”. In the video, NSS volunteers talked about social topics such as gender equality, corruption, using indigenous products and many more. The main objective of the video was to create awareness among people about the same by taking small steps so that we can make India a better place to live.
         
@@ -149,16 +168,14 @@ const Eventsdiscription = () => {
 "
       />
       <RightSide
-        src="images/j.png"
+        src="images/rep.png"
         eventName="Online Celebration Of Republic Day"
         desc="An awareness video made by NSS volunteers on Republic Day, 2021.
-        
-
 "
         desc1="Date: 26th Jan, 2021."
       />
       <LeftSide
-        src="images/pl.png"
+        src="images/pla.jpg"
         eventName="Plasma Donation Awareness"
         desc="The country was hit by the devastating second wave of Covid-19 and more than 4 lakh cases were being registered per day. Plasma therapy was recommended to critical patients within 10 days of the onset of symptoms. The antibodies transferred from a recovered coronavirus patient can only help generate a faster immune response in a patient. In the view of the situation, a video was the released on 6th May, 2021 to spread awareness among the people regarding plasma donation.  The objective was to encourage recovered patients come forward to donate their plasma to help the suffering patients.
 
@@ -167,14 +184,14 @@ const Eventsdiscription = () => {
       <RightSide
         src="images/Event_img9.jpg"
         eventName="Covid-19 Vaccination Awareness"
-        desc="Government of India is taking all the necessary steps to ensure that we are well prepared to face the challenge and threats posed by the growing pandemic of corona virus and Vaccination is the only way to get rid of it. Covaxin and Covishield are already out in the Indian market but people were hesitating to take the vaccine. Hence we considered it our duty to spread awareness among the people about how, why and when they should take the vaccine and help India to overcome the pandemic and minimize the possibility of any upcoming wave of Covid-19.
-        A video is released on our You Tube channel regarding Covid-19 vaccination awareness. 
+        desc="Government of India was taking all the necessary steps to ensure that we were well prepared to face the challenge and threats posed by the growing pandemic of corona virus and Vaccination was the only way to get rid of it. Covaxin and Covishield were already out in the Indian market but people were hesitating to take the vaccine. Hence we considered it was our duty to spread awareness among the people about how, why and when they should take the vaccine and help India to overcome the pandemic and minimize the possibility of any upcoming wave of Covid-19.
+        A video was released on our You Tube channel regarding Covid-19 vaccination awareness. 
         
 "
         desc1="Date :- 27th May, 2021.
 "
       />
-      <EventYear eventYear="2018-2019" />
+      <EventYear eventYear="2018-2019" id="e3" />
       <LeftSide
         src="images/e.jpg"
         eventName="Hindi Essay Competition"

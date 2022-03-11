@@ -18,10 +18,10 @@ const GalleryFullPage = () => {
       id: 4,
       imgSrc: "images/Event_img10.jpg",
     },
-    // {
-    //   id: 5,
-    //   imgSrc: "images/Event_img11.jpg",
-    // },
+    {
+      id: 5,
+      imgSrc: "images/shirt.webp",
+    },
     {
       id: 6,
       imgSrc: "images/Event_img1.jpg",
@@ -64,7 +64,7 @@ const GalleryFullPage = () => {
     },
     {
       id: 16,
-      imgSrc: "images/Event_img6.jpg",
+      imgSrc: "images/wow.webp",
     },
     {
       id: 17,
@@ -73,6 +73,14 @@ const GalleryFullPage = () => {
     {
       id: 18,
       imgSrc: "images/img2.jpeg",
+    },
+    {
+      id: 19,
+      imgSrc: "images/Event_img12.jpg",
+    },
+    {
+      id: 20,
+      imgSrc: "images/rep.png",
     },
   ];
   const [model, setModel] = useState(false);

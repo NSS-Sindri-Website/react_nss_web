@@ -31,7 +31,9 @@ li {
   margin-top: 40px;
   /* background-color: red; */
 }
-
+.copy {
+  font-size: 10px;
+}
 .sizeofdiv {
   margin-top: 3em;
   /* width:2em; */

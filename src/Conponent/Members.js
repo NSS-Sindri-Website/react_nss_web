@@ -8,10 +8,12 @@ function Members() {
       <h1 className="h1">Meet Our Team</h1>
       <br />
       <br />
-      <h1 className="h1">2K17</h1>
+      <h1 className="h1" id="m1">
+        2K17
+      </h1>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -34,7 +36,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -57,7 +59,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -80,7 +82,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -103,7 +105,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -126,7 +128,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -149,7 +151,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -172,7 +174,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -195,7 +197,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -218,7 +220,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -241,7 +243,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -264,7 +266,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -287,7 +289,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -310,7 +312,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -333,7 +335,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -356,7 +358,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -379,7 +381,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -402,7 +404,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -425,7 +427,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -448,7 +450,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -460,10 +462,12 @@ function Members() {
         </div>
       </div>
 
-      <h1 className="h1">2K18</h1>
+      <h1 className="h1" id="m2">
+        2K18
+      </h1>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -490,7 +494,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -518,7 +522,7 @@ function Members() {
       <br />
       <br />
 
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -545,7 +549,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -572,7 +576,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -599,7 +603,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -626,7 +630,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -653,7 +657,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -680,7 +684,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -707,7 +711,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -734,7 +738,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -761,7 +765,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -788,7 +792,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -814,7 +818,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -839,7 +843,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -864,7 +868,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -889,7 +893,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -914,7 +918,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -939,7 +943,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -964,7 +968,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -989,7 +993,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1014,7 +1018,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1039,7 +1043,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1064,7 +1068,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1089,7 +1093,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1114,7 +1118,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1139,7 +1143,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1164,7 +1168,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1178,10 +1182,12 @@ function Members() {
       </div>
       <br />
       <br />
-      <h1 className="h1">2K19</h1>
+      <h1 className="h1" id="m3">
+        2K19
+      </h1>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1206,7 +1212,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1231,7 +1237,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1256,7 +1262,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1281,7 +1287,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1306,7 +1312,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1331,7 +1337,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1356,7 +1362,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1381,7 +1387,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1406,7 +1412,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1431,7 +1437,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1456,7 +1462,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1481,7 +1487,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1506,7 +1512,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1531,7 +1537,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1545,10 +1551,12 @@ function Members() {
       </div>
       <br />
       <br />
-      <h1 className="h1">2K20</h1>
+      <h1 className="h1" id="m4">
+        2K20
+      </h1>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1573,7 +1581,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1598,7 +1606,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1623,7 +1631,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1648,7 +1656,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1673,7 +1681,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1698,7 +1706,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1723,7 +1731,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1748,7 +1756,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1773,7 +1781,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1798,7 +1806,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1823,7 +1831,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
@@ -1848,7 +1856,7 @@ function Members() {
       </div>
       <br />
       <br />
-      <div className="row">
+      <div className="row mem ">
         <div className="col-lg-6 col-md-6 col-sm-6">
           <div class="container">
             <div class="card">
