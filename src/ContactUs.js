@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 // import GoogleMapReact from "google-map-react";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import "./ContactUs.css";
 // const AnyReactComponent = ({ text }) => <div>{text}</div>;
 import {
