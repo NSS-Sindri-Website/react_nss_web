@@ -1,338 +1,815 @@
 import React from "react";
-import "./Members.css";
+// import "./Members.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
-
-function M20() {
+import "./M19.css";
+import { FaFacebookF, FaInstagram, FaLinkedin } from "react-icons/fa";
+function M19() {
   return (
     <div>
       <h1 className="h1">Meet Our Team</h1>
       <br />
       <br />
-      <h1 className="h1" id="m4">
+      <h1 className="h1" id="m3">
         2K20
       </h1>
       <br />
       <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Gorella Kumar </h5>
-                <p>Branch: Chemical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Anurag Kr Soni</h5>
-                <p>Branch: Metallurgical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Manish Kumar</h5>
-                <p>Branch: Metallurgical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
+      <div id="" class="team">
+        <div class="container">
+          {/* <div class="section-title">
+            <h2>Team</h2>
+            <h3>
+              Our <span>Office-Bearers</span>
+            </h3>
+            <p>
+              Ut possimus qui ut temporibus culpa velit eveniet modi omnis est
+              adipisci expedita at voluptas atque vitae autem.
+            </p>
+          </div> */}
 
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Om Prakash</h5>
-                <p>Branch: Chemical Engineering</p>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Amit Kumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Anjali Kumari.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Binod Murmu.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/Event_img2.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            
           </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Abhishek Kr Shukla</h5>
-                <p>Branch: Mining Engineering</p>
+          <br />
+          <br />
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Geet Kumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Harshit Pallove.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/KHUSHI GROVER.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Kumar Sanu.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <br />
+            <br />
+            
           </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Priyanka Sharma </h5>
-                <p>Branch: Electrical Engineering</p>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Nadeem Rehman Alam.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Nikki Kumari.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Piyush kumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Prahul kumar_.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <br />
+            <br />
+            
           </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Adarsh Kumar</h5>
-                <p>Branch: Civil Engineering</p>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/SAGAR MISHRA.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Suraj Pramanik.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Vicky Kumar Mandal.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Yogesh Kumar (NSS).JPG"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
+              </div>
+            </div>
+            <br />
+            <br />
+            
           </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Divya Kacchap</h5>
-                <p>Branch: Mining Engineering</p>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/Event_img2.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Ashmi singh </h5>
-                <p>Branch: Production Engineering</p>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/Event_img2.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Vivek Kumar</h5>
-                <p>Branch: Civil Engineering</p>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/Event_img2.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Priyanshu Kr keshri </h5>
-                <p>Branch: Mining Engineering</p>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/Event_img2.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                  <div class="social">
+                    <a
+                      href="https://www.facebook.com/shanu.anand.5249"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaFacebookF size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.instagram.com/callous_lad/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaInstagram size="2.9rem" color="white" />
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaLinkedin size="2.9rem" color="white" />
+                    </a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>SHANU ANAND</h4>
+                  <span>Founder & Spokesperson</span>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Sumit Pradhan</h5>
-                <p>Branch: Mechanical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Manisha Kumari </h5>
-                <p>Branch: Electronics and Communication Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Pratyush Kumar</h5>
-                <p>Branch: Production Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Sneha Kumari </h5>
-                <p>Branch: Production Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Gayetri Murmu </h5>
-                <p>Branch: Electronics and Communication Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Sammi Kumari </h5>
-                <p>Branch: Metallurgical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Satyam Siromani</h5>
-                <p>Branch: Production Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Mukund Parasher </h5>
-                <p>Branch: Electrical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Suraj Kumar</h5>
-                <p>Branch: Chemical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Mohit Kumar saw</h5>
-                <p>Branch: Metallurgical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Ankit Kishore Khalkho </h5>
-                <p>Branch: Information Technology</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Dipesh Kr Jaiswal </h5>
-                <p>Branch: Metallurgical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Abhishek Kumar</h5>
-                <p>Branch: Mining Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Gaurav Swansi </h5>
-                <p>Branch: Mechanical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Shubham barnwal </h5>
-                <p>Branch: Mechanical Engineering</p>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
@@ -342,4 +819,4 @@ function M20() {
   );
 }
 
-export default M20;
+export default M19;
