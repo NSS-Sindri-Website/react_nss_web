@@ -37,29 +37,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Amit Kumar</h4>
@@ -71,37 +48,14 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Anjali Kumari.jpg"
+                    src="images/2K19/anjalikumari1.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Anjali Kumari</h4>
-                  <span>Alumini Incharge</span>
+                  <span>Vice president</span>
                 </div>
               </div>
             </div>
@@ -113,29 +67,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Binod Murmu</h4>
@@ -147,37 +78,14 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/Event_img2.jpg"
+                    src="images/2K19/AkashKr.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
-                  <h4>SHANU ANAND</h4>
-                  <span>Founder & Spokesperson</span>
+                  <h4>Akash Kr Mandal</h4>
+                  <span>Inventory Head</span>
                 </div>
               </div>
             </div>
@@ -194,29 +102,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Geet Kumar</h4>
@@ -232,29 +117,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Harshit Pallove</h4>
@@ -270,29 +132,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Khushi Grover</h4>
@@ -308,29 +147,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Kumar Sanu</h4>
@@ -351,29 +167,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Nadeem Rehman Alam</h4>
@@ -389,29 +182,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Niki Kumari</h4>
@@ -427,29 +197,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Piyush Kumar</h4>
@@ -465,29 +212,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Prahul Kumar</h4>
@@ -508,29 +232,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Sagar Mishra</h4>
@@ -545,30 +246,7 @@ function M19() {
                     src="images/2K19/Suraj Pramanik.jpg"
                     class="img-fluid team_img"
                     alt=""
-                  />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
+                  />  
                 </div>
                 <div class="member-info">
                   <h4>Suraj Kumar Pramanik</h4>
@@ -584,29 +262,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Vicky Kumar Mandal</h4>
@@ -622,29 +277,6 @@ function M19() {
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
                   <h4>Yogesh Kumar</h4>
@@ -661,37 +293,14 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/Event_img2.jpg"
+                    src="images/2K19/RahulRanjan.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
-                  <h4>SHANU ANAND</h4>
-                  <span>Founder & Spokesperson</span>
+                  <h4>Rahul Ranjan</h4>
+                  <span>scurvey head</span>
                 </div>
               </div>
             </div>
@@ -699,37 +308,14 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/Event_img2.jpg"
+                    src="images/2K19/PavitraBhakat.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
-                  <h4>SHANU ANAND</h4>
-                  <span>Founder & Spokesperson</span>
+                  <h4>Pavitra Kr Bhakat</h4>
+                  <span>PRO</span>
                 </div>
               </div>
             </div>
@@ -737,37 +323,14 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/Event_img2.jpg"
+                    src="images/2K19/Anjali Kumari.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
-                  <h4>SHANU ANAND</h4>
-                  <span>Founder & Spokesperson</span>
+                  <h4>Anjali Kumari</h4>
+                  <span>Alumini Incharge</span>
                 </div>
               </div>
             </div>
@@ -775,40 +338,135 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/Event_img2.jpg"
+                    src="images/2K19/Ajay Kumar.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
-                  <div class="social">
-                    <a
-                      href="https://www.facebook.com/shanu.anand.5249"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaFacebookF size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.instagram.com/callous_lad/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaInstagram size="2.9rem" color="white" />
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/shanu-anand-06262916b"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <FaLinkedin size="2.9rem" color="white" />
-                    </a>
-                  </div>
                 </div>
                 <div class="member-info">
-                  <h4>SHANU ANAND</h4>
-                  <span>Founder & Spokesperson</span>
+                  <h4>Ajay Kumar</h4>
+                  <span>Program coordinator</span>
                 </div>
               </div>
             </div>
+            
+            
+          </div>
+          <br/>
+          <br/>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/_Budhram Hembram.JPG"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Budhram Hembram</h4>
+                  <span>Inventory Head</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Nitish.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Nitish Kumar</h4>
+                  <span>Media Head</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Rohananand.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Rohan Anand</h4>
+                  <span>Program Coordinator</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Dhiraj Pandey.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Dhiraj Pandey</h4>
+                  <span>Technical Heads</span>
+                </div>
+              </div>
+            </div>
+            
+            
+          </div>
+          <br/>
+          <br/>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Shivnandan .jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Shivnandan</h4>
+                  <span>Scurvey Heads</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Shubham Kumar .png"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Shubham Kumar</h4>
+                  <span>Alumini Incharge</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Sunny.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Sunny Kumar</h4>
+                  <span>Planning and Execution Head</span>
+                </div>
+              </div>
+            </div>
+            
             
           </div>
         </div>
