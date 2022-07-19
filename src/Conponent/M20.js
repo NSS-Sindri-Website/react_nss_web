@@ -1,338 +1,490 @@
 import React from "react";
-import "./Members.css";
+// import "./Members.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
-
-function M20() {
+import "./M19.css";
+import { FaFacebookF, FaInstagram, FaLinkedin } from "react-icons/fa";
+function M19() {
   return (
     <div>
       <h1 className="h1">Meet Our Team</h1>
       <br />
       <br />
-      <h1 className="h1" id="m4">
+      <h1 className="h1" id="m3">
         2K20
       </h1>
       <br />
       <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Gorella Kumar </h5>
-                <p>Branch: Chemical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Anurag Kr Soni</h5>
-                <p>Branch: Metallurgical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Manish Kumar</h5>
-                <p>Branch: Metallurgical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
+      <div id="" class="team">
+        <div class="container">
+          {/* <div class="section-title">
+            <h2>Team</h2>
+            <h3>
+              Our <span>Office-Bearers</span>
+            </h3>
+            <p>
+              Ut possimus qui ut temporibus culpa velit eveniet modi omnis est
+              adipisci expedita at voluptas atque vitae autem.
+            </p>
+          </div> */}
 
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Om Prakash</h5>
-                <p>Branch: Chemical Engineering</p>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Mukund.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Mukund Parasher</h4>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images\2K20\AbhishekKumarShukla_.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Abhishek Shukla</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/AbhishekKumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Abhishek Kumar</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/AnkitKishore.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Ankit Kishore Khalko</h4>
+                </div>
+              </div>
+            </div>
+            
           </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Abhishek Kr Shukla</h5>
-                <p>Branch: Mining Engineering</p>
+          <br />
+          <br />
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/AnupriyaKumari.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Anupriya Kumari</h4>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Anuragsoni.webp"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Anurag soni</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/AvinashKumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Avinash Kumar</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/DanishHussain.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Danish Hussain</h4>
+                </div>
+              </div>
+            </div>
+            <br />
+            <br />
+            
           </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Priyanka Sharma </h5>
-                <p>Branch: Electrical Engineering</p>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Dipeshjaiswal_.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Deepesh Kumar Jaiswal</h4>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/DivyaKachhap.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Divya Kachhap</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Gauravswansi.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Gaurav Swansi</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Gayetri .jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Gayetri</h4>
+                </div>
+              </div>
+            </div>
+            <br />
+            <br />
+            
           </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Adarsh Kumar</h5>
-                <p>Branch: Civil Engineering</p>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/GorellaKumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Gorella Kumar</h4>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/VIVEKKUMAR.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Vivek Kumar</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Manishakumari.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Manisha Kumari</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/NikitaKumari.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Nikita Kumari</h4>
+                </div>
+              </div>
+            </div>
+            <br />
+            <br />
+            
           </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Divya Kacchap</h5>
-                <p>Branch: Mining Engineering</p>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/PoojaKumari.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Pooja Kumari</h4>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Prabhatkr.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Prabhat Kumar Singh</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/pratyush_kumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Pratyush Kumar</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/PriyanshuKumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Priyanshu Kesri</h4>
+                </div>
+              </div>
+            </div>
+            
           </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Ashmi singh </h5>
-                <p>Branch: Production Engineering</p>
+          <br/>
+          <br/>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Saumodeep.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Saumodeep Banrjee</h4>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/shiv1.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Shiv Prasad Shaw</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Shubham.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Shubham Baranwal</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Sneha.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Sneha Kumari</h4>
+                </div>
+              </div>
+            </div>
+            
           </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Vivek Kumar</h5>
-                <p>Branch: Civil Engineering</p>
+          <br/>
+          <br/>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Vivek.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Vivek Kumar Pandey</h4>
+                </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Akshat.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Akshat Ashish</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Adarsh.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Adarsh</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/sumit.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Sumit Pradhan</h4>
+                </div>
+              </div>
+            </div>
+            
           </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Priyanshu Kr keshri </h5>
-                <p>Branch: Mining Engineering</p>
+          <br/>
+          <br/>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Om.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Om Prakash</h4>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Sumit Pradhan</h5>
-                <p>Branch: Mechanical Engineering</p>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Tejaswi.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Tejaswi Pandey</h4>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Manisha Kumari </h5>
-                <p>Branch: Electronics and Communication Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Pratyush Kumar</h5>
-                <p>Branch: Production Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Sneha Kumari </h5>
-                <p>Branch: Production Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Gayetri Murmu </h5>
-                <p>Branch: Electronics and Communication Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Sammi Kumari </h5>
-                <p>Branch: Metallurgical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Satyam Siromani</h5>
-                <p>Branch: Production Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Mukund Parasher </h5>
-                <p>Branch: Electrical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Suraj Kumar</h5>
-                <p>Branch: Chemical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Mohit Kumar saw</h5>
-                <p>Branch: Metallurgical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Ankit Kishore Khalkho </h5>
-                <p>Branch: Information Technology</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Dipesh Kr Jaiswal </h5>
-                <p>Branch: Metallurgical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Abhishek Kumar</h5>
-                <p>Branch: Mining Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <br />
-      <div className="row mem ">
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Gaurav Swansi </h5>
-                <p>Branch: Mechanical Engineering</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-lg-6 col-md-6 col-sm-6">
-          <div class="container">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title2">Shubham barnwal </h5>
-                <p>Branch: Mechanical Engineering</p>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
@@ -342,4 +494,4 @@ function M20() {
   );
 }
 
-export default M20;
+export default M19;
