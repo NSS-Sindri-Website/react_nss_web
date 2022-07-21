@@ -2,7 +2,7 @@ import React from "react";
 // import "./Members.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 import "./M19.css";
-import { FaFacebookF, FaInstagram, FaLinkedin } from "react-icons/fa";
+// import { FaFacebookF, FaInstagram, FaLinkedin } from "react-icons/fa";
 function M19() {
   return (
     <div>
@@ -33,17 +33,18 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Amit Kumar.jpg"
+                    src="images/2k19/RHR.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
                 </div>
                 <div class="member-info">
-                  <h4>Amit Kumar</h4>
-                  <span>Secretary</span>
+                  <h4>Raj Hansh Raj</h4>
+                  <span>President</span>
                 </div>
               </div>
             </div>
+
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
@@ -89,7 +90,6 @@ function M19() {
                 </div>
               </div>
             </div>
-            
           </div>
           <br />
           <br />
@@ -156,7 +156,6 @@ function M19() {
             </div>
             <br />
             <br />
-            
           </div>
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -221,7 +220,6 @@ function M19() {
             </div>
             <br />
             <br />
-            
           </div>
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -246,7 +244,7 @@ function M19() {
                     src="images/2K19/Suraj Pramanik.jpg"
                     class="img-fluid team_img"
                     alt=""
-                  />  
+                  />
                 </div>
                 <div class="member-info">
                   <h4>Suraj Kumar Pramanik</h4>
@@ -286,7 +284,6 @@ function M19() {
             </div>
             <br />
             <br />
-            
           </div>
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -349,11 +346,9 @@ function M19() {
                 </div>
               </div>
             </div>
-            
-            
           </div>
-          <br/>
-          <br/>
+          <br />
+          <br />
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
@@ -415,12 +410,25 @@ function M19() {
                 </div>
               </div>
             </div>
-            
-            
           </div>
-          <br/>
-          <br/>
+          <br />
+          <br />
           <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K19/Amit Kumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Amit Kumar</h4>
+                  <span>Secretary</span>
+                </div>
+              </div>
+            </div>
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
@@ -466,8 +474,6 @@ function M19() {
                 </div>
               </div>
             </div>
-            
-            
           </div>
         </div>
       </div>

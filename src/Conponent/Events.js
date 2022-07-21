@@ -196,13 +196,13 @@ function Events() {
               <div class="icon">
                 <div className="image">
                   <img
-                    src="images/shirt.webp"
+                    src="images/img2.jpeg"
                     className="d-block  img-flu image__img "
                     alt=""
                   />
                   <div class="image__overlay ">
                     <div class="image__title">
-                      <a href="/E22">Click here</a>
+                      <a href="/E19">Click here</a>
                     </div>
                     <p class="image__description">To Know More</p>
                   </div>
@@ -214,10 +214,16 @@ function Events() {
                 </Link>
               </h4>
               <p>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Ab, exercitationem sit possimus dolorem earum perspiciatis
-                ipsum itaque deleniti in nesciunt, alias iste cum?
+                NSS BIT Sindri celebrated 70th Republic Day in the arena of
+                Administration block. Respected Director sir, Dr. D.K. Singh,
+                respected professors, first year students and NSS members
+                gathered to celebrated this auspicious day. Homage was paid to
+                the father of our nation, Mahatma Gandhiji. With scouts parading
+                and band performing, there was a wave of patriotism in the
+                surroundings. At 8 o' clock, esteemed Director sir hoisted the
+                flag which was followed by the National Anthem. The celebration
+                concluded with a soulful song by first year students, under the
+                guidance of NSS members.
               </p>
             </div>
           </div>

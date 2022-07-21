@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function Miniabout() {
   return (
     <div className="miniabu">
-      <div className="container">
+      <div className="containerA">
         <div className=" inner">
           <div className=" super-inner">
             <h3> ABOUT US </h3>

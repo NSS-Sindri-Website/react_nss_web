@@ -46,7 +46,7 @@ class ContactUs extends Component {
             </div>
             <div className="right-side">
               <div className="topic-text text-center pb-5">Send us a message</div>
-              <p className="ml-5">If you have any work from me or any types of quries related to NSS-BIT Sindri, you can send me message from here. It's my pleasure to help you.</p>
+              <p className="ml-5 pp">If you have any work from me or any types of quries related to NSS-BIT Sindri, you can send me message from here. It's my pleasure to help you.</p>
               <form action="#">
                 <div className="input-box">
                   <input type="text" placeholder="Enter your name" />

@@ -44,6 +44,12 @@ const E22 = () => {
   return (
     <div className="MainEventCon">
       <EventYear eventYear="2021-22" id="e1" />
+      <RightSide
+        src="images/bdc2.webp"
+        eventName="Blood Donation Camp"
+        desc=" A blood donation camp was organized by NSS BIT Sindri on 13 March 2022. The director of BIT Sindri Dr D.K Singh graced the event with his presence. Students participated in huge numbers and donated blood and contributed to society. Alumni from batch 1992-1996 also came forward for this noble act. Some of the alumni were Mr.M. Raza, Mr. Lokesh Chaudhary, Mr. Mritunjay Singh, Mr. Zakir Ahmad, Mr. Rajesh Jaiswal. 100+ units of blood were donated in total and it was a huge success for NSS BIT Sindri."
+        desc1="Date: 13th March 2022"
+      />
       <LeftSide
         src="images/shirt.webp"
         eventName="T-Shirt Design Contest"

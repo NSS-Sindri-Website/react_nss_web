@@ -2,7 +2,7 @@ import React from "react";
 // import "./Members.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 import "./M19.css";
-import { FaFacebookF, FaInstagram, FaLinkedin } from "react-icons/fa";
+// import { FaFacebookF, FaInstagram, FaLinkedin } from "react-icons/fa";
 function M19() {
   return (
     <div>
@@ -47,7 +47,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images\2K20\AbhishekKumarShukla_.jpg"
+                    src="images/2K20/AbhishekKumarShukla_.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -85,7 +85,6 @@ function M19() {
                 </div>
               </div>
             </div>
-            
           </div>
           <br />
           <br />
@@ -148,7 +147,6 @@ function M19() {
             </div>
             <br />
             <br />
-            
           </div>
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -209,7 +207,6 @@ function M19() {
             </div>
             <br />
             <br />
-            
           </div>
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -270,7 +267,6 @@ function M19() {
             </div>
             <br />
             <br />
-            
           </div>
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
@@ -329,10 +325,9 @@ function M19() {
                 </div>
               </div>
             </div>
-            
           </div>
-          <br/>
-          <br/>
+          <br />
+          <br />
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
@@ -390,10 +385,9 @@ function M19() {
                 </div>
               </div>
             </div>
-            
           </div>
-          <br/>
-          <br/>
+          <br />
+          <br />
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
@@ -451,10 +445,9 @@ function M19() {
                 </div>
               </div>
             </div>
-            
           </div>
-          <br/>
-          <br/>
+          <br />
+          <br />
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
@@ -484,7 +477,6 @@ function M19() {
                 </div>
               </div>
             </div>
-            
           </div>
         </div>
       </div>

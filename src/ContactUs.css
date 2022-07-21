@@ -86,9 +86,12 @@
   margin-right: 0;
   margin: 12px 0;
 }
-.button, p{
+.button{
   padding-left: 8em;
 
+}
+.pp{
+  padding-left: 8em;
 }
 .right-side .input-box input,
 .right-side .input-box textarea{
