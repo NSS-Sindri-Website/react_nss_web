@@ -49,182 +49,182 @@ const PostBearer = () => {
         >
           <SwiperSlide>
             <Item
-              src="images/2k19/RHR.jpg"
+              src="images/2k19/RHR - Copy.jpg"
               a="President"
               name="Raj Hansh Raj"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Anjalikumari1.jpg"
+              src="images/2k19/Anjalikumari1 - Copy.jpg"
               a="Vice President"
               name="Anjali Kumari"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/SAGAR MISHRA.jpg"
+              src="images/2k19/SAGAR MISHRA - Copy.jpg"
               a="Treasurer"
               name="Sagar Mishra"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/KHUSHI GROVER.jpg"
+              src="images/2k19/KHUSHI GROVER - Copy.jpg"
               a="Joint Treasurer"
               name="Khushi Grover"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Yogesh Kumar (NSS).JPG"
+              src="images/2k19/Yogesh Kumar (NSS) - Copy.JPG"
               a="Technical Head"
               name="Yogesh Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Dhiraj Pandey.jpg"
+              src="images/2k19/Dhiraj Pandey - Copy.jpg"
               a="Technical Head"
               name="Dhiraj Pandey"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Suraj Pramanik.jpg"
+              src="images/2k19/Suraj Pramanik - Copy.jpg"
               a="Meeting Head"
               name="Suraj Kumar Pramanik"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Binod Murmu.jpg"
+              src="images/2k19/Binod Murmu - Copy.jpg"
               a="Meeting Head"
               name="Binod Murmu"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Geet Kumar.jpg"
+              src="images/2k19/Geet Kumar - Copy.jpg"
               a="Program Coordinator"
               name="Geet Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Rohananand.jpg"
+              src="images/2k19/Rohananand - Copy.jpg"
               a="Program Coordinator"
               name="Rohan Anand"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/AJAY KUMAR.jpg"
+              src="images/2k19/AJAY KUMAR - Copy.jpg"
               a="Program Coordinator"
               name="Ajay Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Kumar Sanu.jpg"
+              src="images/2k19/Kumar Sanu - Copy.jpg"
               a="Program Coordinator"
               name="Kumar Sanu"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/PavitraBhakat.jpg"
+              src="images/2k19/PavitraBhakat - Copy.jpg"
               a="PRO"
               name="Pavitra Kr Bhakat"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Nikki kumari.jpg"
+              src="images/2k19/Nikki kumari - Copy.jpg"
               a="PRO"
               name="Nikki Kumari"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Shubham Kumar .png"
+              src="images/2k19/Shubham Kumar  - Copy.png"
               a="Alumni Incharge"
               name="Shubham Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Anjali Kumari.jpg"
+              src="images/2k19/Anjali Kumari - Copy.jpg"
               a="Alumni Incharge"
               name="Anjali Kumari"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/_Budhram Hembram.JPG"
+              src="images/2k19/_Budhram Hembram - Copy.JPG"
               a="Inventory Head"
               name="Budhram Hembram"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/AkashKr.jpg"
+              src="images/2k19/AkashKr - Copy.jpg"
               a="Inventory Head"
               name="Akash Kr Mandal"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Nitish.jpg"
+              src="images/2k19/Nitish - Copy.jpg"
               a="Media Head"
               name="Nitish Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Piyush kumar.jpg"
+              src="images/2k19/Piyush kumar - Copy.jpg"
               a="Media Head"
               name="Piyush Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Prahul kumar_.jpg"
+              src="images/2k19/Prahul kumar_ - Copy.jpg"
               a="Planning and Execution Head"
               name="Prahul Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Sunny.jpg"
+              src="images/2k19/Sunny - Copy.jpg"
               a="Planning and Execution Head"
               name="Sunny Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Vicky Kumar Mandal.jpg"
+              src="images/2k19/Vicky Kumar Mandal - Copy.jpg"
               a="Planning and Execution Head"
               name="Vickey Kr Mandal"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/RahulRanjan.jpg"
+              src="images/2k19/RahulRanjan - Copy.jpg"
               a="Survey Head"
               name="Rahul Ranjn"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Harshit Pallove.jpg"
+              src="images/2k19/Harshit Pallove - Copy.jpg"
               a="Survey Head"
               name="Harshit Pallove"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k19/Shivnandan .jpg"
+              src="images/2k19/Shivnandan  - Copy.jpg"
               a="Survey Head"
               name="Shivnandan"
             />

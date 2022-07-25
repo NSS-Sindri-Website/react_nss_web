@@ -8,8 +8,6 @@ import {
   FaYoutube,
 } from "react-icons/fa";
 const Footer = () => {
-  
-
   return (
     <>
       <footer>
@@ -46,7 +44,7 @@ const Footer = () => {
                 <h2>More</h2>
                 <ul className="lit">
                   <li>
-                    <Link className="linkcolor" as={Link} to="/Members">
+                    <Link className="linkcolor" as={Link} to="/M19">
                       Members
                     </Link>
                   </li>
@@ -57,7 +55,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link className="linkcolor" as={Link} to="/AboutPage">
-                      About
+                      About Us
                     </Link>
                   </li>
                 </ul>

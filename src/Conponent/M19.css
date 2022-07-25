@@ -4,9 +4,21 @@
     padding: 60px 0;
   }
   .team_img{
-    padding-top: 0px;
+    /* padding-top: 0px;
     margin-left: 0px;
-    height: 24vh;
+    height: 24vh; */
+    padding-top: 0px;
+    margin-left: 1px;
+    height: 30vh;
+  }
+  .more_pad{
+    margin-left: 13px;
+  }
+  .more_pad1{
+    margin-left: 22px;
+  }
+  .more_pad2{
+    margin-left: 6px;
   }
   .team .member {
     margin-bottom: 20px;
@@ -89,8 +101,20 @@
   }
   /* from teams section for mobile view */
   
-  @media (max-width: 320px) {
+  @media (max-width: 1200px) {
+    .team_img {
+      width: 30em;
+}
+  
+  }
+  @media (max-width: 378px) {
+    .team_img {
+      width: 20em;
+}
+  
+  }
+  /* @media (max-width: 320px) {
     .team {
         display:none;
     }
-  }
+  } */

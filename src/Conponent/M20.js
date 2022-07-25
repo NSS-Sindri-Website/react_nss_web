@@ -33,6 +33,20 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
+                    src="images/2K20/ak.jpg"
+                    class="img-fluid team_img more_pad"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Ankit Kishore Khalkho</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
                     src="images/2K20/Mukund.jpg"
                     class="img-fluid team_img"
                     alt=""
@@ -71,20 +85,6 @@ function M19() {
                 </div>
               </div>
             </div>
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-              <div class="member">
-                <div class="member-img">
-                  <img
-                    src="images/2K20/AnkitKishore.jpg"
-                    class="img-fluid team_img"
-                    alt=""
-                  />
-                </div>
-                <div class="member-info">
-                  <h4>Ankit Kishore Khalko</h4>
-                </div>
-              </div>
-            </div>
           </div>
           <br />
           <br />
@@ -107,7 +107,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K20/Anuragsoni.webp"
+                    src="images/2K20/anurag.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -151,10 +151,10 @@ function M19() {
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
-                <div class="member-img">
+                <div class="member-img ">
                   <img
                     src="images/2K20/Dipeshjaiswal_.jpg"
-                    class="img-fluid team_img"
+                    class="img-fluid team_img more_pad1"
                     alt=""
                   />
                 </div>
@@ -288,7 +288,7 @@ function M19() {
                 <div class="member-img">
                   <img
                     src="images/2K20/Prabhatkr.jpg"
-                    class="img-fluid team_img"
+                    class="img-fluid team_img more_pad"
                     alt=""
                   />
                 </div>
@@ -474,6 +474,34 @@ function M19() {
                 </div>
                 <div class="member-info">
                   <h4>Tejaswi Pandey</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/pc.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Priyanka Sharma</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Ashmi.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Ashmi Singh</h4>
                 </div>
               </div>
             </div>

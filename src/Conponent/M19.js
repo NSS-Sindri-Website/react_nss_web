@@ -33,7 +33,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2k19/RHR.jpg"
+                    src="images/2k19/RHR - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -49,7 +49,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/anjalikumari1.jpg"
+                    src="images/2K19/anjalikumari1 - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -64,7 +64,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Binod Murmu.jpg"
+                    src="images/2K19/Binod Murmu - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -79,7 +79,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/AkashKr.jpg"
+                    src="images/2K19/AkashKr - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -98,7 +98,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Geet Kumar.jpg"
+                    src="images/2K19/Geet Kumar - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -113,7 +113,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Harshit Pallove.jpg"
+                    src="images/2K19/Harshit Pallove - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -128,7 +128,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/KHUSHI GROVER.jpg"
+                    src="images/2K19/KHUSHI GROVER - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -143,7 +143,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Kumar Sanu.jpg"
+                    src="images/2K19/Kumar Sanu - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -162,8 +162,8 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Nadeem Rehman Alam.jpg"
-                    class="img-fluid team_img"
+                    src="images/2K19/Nadeem Rehman Alam - Copy.jpg"
+                    class="img-fluid team_img more_pad1"
                     alt=""
                   />
                 </div>
@@ -177,7 +177,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Nikki Kumari.jpg"
+                    src="images/2K19/Nikki Kumari - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -192,7 +192,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Piyush kumar.jpg"
+                    src="images/2K19/Piyush kumar - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -207,7 +207,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Prahul kumar_.jpg"
+                    src="images/2K19/Prahul kumar_ - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -226,7 +226,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/SAGAR MISHRA.jpg"
+                    src="images/2K19/SAGAR MISHRA - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -241,8 +241,8 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Suraj Pramanik.jpg"
-                    class="img-fluid team_img"
+                    src="images/2K19/Suraj Pramanik - Copy.jpg"
+                    class="img-fluid team_img more_pad1"
                     alt=""
                   />
                 </div>
@@ -256,7 +256,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Vicky Kumar Mandal.jpg"
+                    src="images/2K19/Vicky Kumar Mandal - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -271,7 +271,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Yogesh Kumar (NSS).JPG"
+                    src="images/2K19/Yogesh Kumar (NSS) - Copy.JPG"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -290,7 +290,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/RahulRanjan.jpg"
+                    src="images/2K19/RahulRanjan - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -305,7 +305,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/PavitraBhakat.jpg"
+                    src="images/2K19/PavitraBhakat - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -320,7 +320,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Anjali Kumari.jpg"
+                    src="images/2K19/Anjali Kumari - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -335,7 +335,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Ajay Kumar.jpg"
+                    src="images/2K19/Ajay Kumar - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -354,8 +354,8 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/_Budhram Hembram.JPG"
-                    class="img-fluid team_img"
+                    src="images/2K19/_Budhram Hembram - Copy.JPG"
+                    class="img-fluid team_img more_pad2"
                     alt=""
                   />
                 </div>
@@ -369,7 +369,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Nitish.jpg"
+                    src="images/2K19/Nitish - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -384,7 +384,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Rohananand.jpg"
+                    src="images/2K19/Rohananand - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -399,7 +399,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Dhiraj Pandey.jpg"
+                    src="images/2K19/Dhiraj Pandey - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -418,7 +418,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Amit Kumar.jpg"
+                    src="images/2K19/Amit Kumar - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -433,7 +433,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Shivnandan .jpg"
+                    src="images/2K19/Shivnandan  - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -448,7 +448,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Shubham Kumar .png"
+                    src="images/2K19/Shubham Kumar  - Copy.png"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -463,8 +463,8 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Sunny.jpg"
-                    class="img-fluid team_img"
+                    src="images/2K19/Sunny - Copy.jpg"
+                    class="img-fluid team_img more_pad1"
                     alt=""
                   />
                 </div>
