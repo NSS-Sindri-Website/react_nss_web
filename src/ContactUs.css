@@ -32,7 +32,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.container .content .left-side{
+.container1 .content .left-side{
   /* width: 25%; */
   height: 100%;
   display: flex;
@@ -70,7 +70,7 @@
   font-size: 14px;
   color: #afafb6;
 }
-.container .content .right-side{
+.container1 .content .right-side{
   width: 75%;
   margin-left: 75px;
 }
@@ -82,7 +82,7 @@
 .right-side .input-box{
   height: 50px;
   width: 100%;
-  padding-left: 8em;
+  padding-left: 2em;
   margin-right: 0;
   margin: 12px 0;
 }
@@ -90,13 +90,13 @@
   padding-left: 8em;
 
 }
-.pp{
+/* .pp{
   padding-left: 8em;
-}
+} */
 .right-side .input-box input,
 .right-side .input-box textarea{
   height: 100%;
-  width: 100%;
+  width: 94%;
   border: none;
   outline: none;
   font-size: 16px;
@@ -131,34 +131,34 @@
 }
 
 @media (max-width: 950px) {
-  .container{
+  .container1{
     width: 90%;
     padding: 30px 40px 40px 35px ;
   }
-  .container .content .right-side{
+  .container1 .content .right-side{
    width: 75%;
    margin-left: 55px;
 }
 }
 @media (max-width: 820px) {
-  .container{
+  .container1{
     margin: 40px 0;
     height: 100%;
   }
-  .container .content{
+  .container1 .content{
     flex-direction: column-reverse;
   }
- .container .content .left-side{
+ .container1 .content .left-side{
    width: 100%;
    flex-direction: row;
    margin-top: 40px;
    justify-content: center;
    flex-wrap: wrap;
  }
- .container .content .left-side::before{
+ .container1 .content .left-side::before{
    display: none;
  }
- .container .content .right-side{
+ .container1 .content .right-side{
    width: 100%;
    margin-left: 0;
  }

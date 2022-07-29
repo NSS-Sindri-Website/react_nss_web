@@ -107,10 +107,40 @@
 }
   
   }
-  @media (max-width: 378px) {
+  @media (max-width: 768px) {
     .team_img {
       width: 20em;
 }
+  
+  }
+  @media (max-width: 821px) {
+    .team_img {    
+      height: 26vh;
+     
+  }
+  
+  }
+  @media (max-width: 500px) {
+    .team_img {    
+      height: 22vh;
+  }
+  
+  }
+  @media (max-width: 376px) {
+    .team_img {    
+      height: 30vh;
+  }
+  }
+  @media (max-width: 281px) {
+    .team_img {    
+      height: 21vh;
+  }
+  }
+  @media (max-width: 768px) {
+    .team {
+      padding: 60px 61px;
+  }
+
   
   }
   /* @media (max-width: 320px) {
