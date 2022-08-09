@@ -32,7 +32,7 @@ const PostBearer = () => {
   return (
     <>
       <div className="post">
-        <h1>Post Bearers</h1>
+        <h1>POST BEARERS</h1>
 
         <Swiper
           slidesPerView={3}
