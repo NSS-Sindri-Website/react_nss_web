@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 // -----------importing bootstrap files---------------
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js";
@@ -30,8 +31,10 @@ const Captions = (props) => {
       <div className="capi">
         <h1>Share Your ideas about Social Service work</h1>
         <a href="/">
-          <button className="cbtn">
-            <span>Click Here</span>
+          <button className="cbtn ch">
+            <Link as={Link} to="/ContactUs" className="nav-link">
+              Click Here
+            </Link>
           </button>
         </a>
       </div>

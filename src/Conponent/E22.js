@@ -45,6 +45,45 @@ const E22 = () => {
     <div className="MainEventCon">
       <EventYear eventYear="2021-22" id="e1" />
       <RightSide
+        src="images/samvad.jpeg"
+        eventName="SAMVAD"
+        desc="On the ocassion of Azaadi ka Amrit Mahostav NSS BIT Sindri organized an event SAMVAD which was speech competition where every participation had to speak for 3 minutes on the topics related to nation."
+        desc1="Date: 15 August 2022"
+      />
+      <LeftSide
+        src="images/fact.jpeg"
+        eventName="Facts and Furious- Patriotic Quiz 2.0"
+        desc="To celebrate the great ocassion of 75 years of Independence, NSS BIT Sindri organized an astonishing event FACTS AND FURIOUS - PATRIOTIC QUIZ 2.0 an online quiz competition. The students were given a platform to share your knowledge and outshine themselves..
+   "
+        desc1="Date :- 12 Aug 2022."
+      />
+      <RightSide
+        src="images/yoga5.jpeg"
+        eventName="International Yoga Day"
+        desc=" NSS BIT Sindri organized a webinar on the account of international Yoga Day of yoga, in collaboration with our esteemed guest of honor Ms Debopriya Das. It was organized with aim to spread awareness about the magical benifits of yoga."
+        desc1="Date: 20 June 2022"
+      />
+      <LeftSide
+        src="images/think.jpeg"
+        eventName="Think Green Be Green"
+        desc="NSS BIT Sindri conducted this event which gave students a chance to show their talent and interest through various art forms, in order to convey their thankfulness, admiration and affection for our mother nature..
+   "
+        desc1="Date :- 5 June 2022."
+      />
+      <RightSide
+        src="images/hul.jpeg"
+        eventName="हल FOR कल"
+        desc=" On the ocassion of environment day, NSS BIT Sindri came up with a 7 day awareness segment called हल FOR कल. It provided information about the major problems and issues prevailing in our environment and along with their solutions. Students came up with real problems like overpopulation, pollution, Deforestation, micro-plastics and many other."
+        desc1="Date: 5 June 2022"
+      />
+      <LeftSide
+        src="images/shirt.webp"
+        eventName="T-Shirt Design Contest"
+        desc="A most artistic online event for designing cool T-shirt designs for NSS BIT SINDRI.  It was a great opportunity for participants for showcasing their wonderful designing skill as ‘designing’ is an artistic ability and just pure creativity. Participants were  given full freedom for unleashing their creativity with only limitation that the design must contain logo of NSS and BIT SINDRI. And the participants had indeed come up with awesome wonderful designs.
+   "
+        desc1="Date :- 13th Jan - 17th Feb, 2022."
+      />
+      <RightSide
         src="images/bdc2.webp"
         eventName="Blood Donation Camp"
         desc=" A blood donation camp was organized by NSS BIT Sindri on 13 March 2022. The director of BIT Sindri Dr D.K Singh graced the event with his presence. Students participated in huge numbers and donated blood and contributed to society. Alumni from batch 1992-1996 also came forward for this noble act. Some of the alumni were Mr.M. Raza, Mr. Lokesh Chaudhary, Mr. Mritunjay Singh, Mr. Zakir Ahmad, Mr. Rajesh Jaiswal. 100+ units of blood were donated in total and it was a huge success for NSS BIT Sindri."

@@ -127,6 +127,9 @@
   background-color: #303983;
 }
 /* ---------------------newCarousel Css------------------ */
+.ch{
+  color: white;
+}
 .imgLeft {
   display: relative;
   display: flex;

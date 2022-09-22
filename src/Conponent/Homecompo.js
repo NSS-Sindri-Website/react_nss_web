@@ -6,7 +6,7 @@ import Gallery from "./Gallery";
 // import Events from "./Events";
 import PostBearer from "./PostBearer";
 import EventsHome from "./EventsHome";
-
+import Testimonial from "./Testimonial";
 function Homecompo() {
   return (
     <div>
@@ -14,6 +14,7 @@ function Homecompo() {
       <About />
       {/* <Events /> */}
       <EventsHome />
+      <Testimonial/>
       <PostBearer />
       <Gallery />
     </div>

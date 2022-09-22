@@ -1,6 +1,6 @@
 import React from "react";
 import "./footer.css";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import {
   FaFacebook,
   FaTelegramPlane,
@@ -15,8 +15,14 @@ const Footer = () => {
           <div className="row">
             <div className="col-12 col-lg-10 "></div>
             <div className="row">
-              <div className="col-6 col-lg-4 foot ">
-                <h2>Links</h2>
+              <div className="col-12 col-lg-2 foot ">
+                <h2>
+                  NSS BIT SINDRI
+                  <br />
+                  NOT ME BUT YOU
+                </h2>
+
+                {/* <h2>Links</h2>
                 <ul className="lit">
                   <li>
                     <Link className="linkcolor" as={Link} to="/">
@@ -37,11 +43,15 @@ const Footer = () => {
                       Gallery
                     </Link>
                   </li>
-                </ul>
+                </ul> */}
               </div>
 
-              <div className="col-6 col-lg-4 foot">
-                <h2>More</h2>
+              <div className="col-12 col-lg-6 foot">
+                <h2>
+                  “The best way to find yourself is to lose yourself in the
+                  service of others.”- Mahatma Gandhi"
+                </h2>
+                {/* <h2>More</h2>
                 <ul className="lit">
                   <li>
                     <Link className="linkcolor" as={Link} to="/M19">
@@ -58,7 +68,7 @@ const Footer = () => {
                       About Us
                     </Link>
                   </li>
-                </ul>
+                </ul> */}
               </div>
               <div className="col-12 col-lg-4 foot">
                 <h2>Follow</h2>
