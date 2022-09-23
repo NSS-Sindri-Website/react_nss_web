@@ -49,7 +49,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/anjalikumari1 - Copy.jpg"
+                    src="images/2K19/Anjalikumari1 - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -273,7 +273,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K19/Nikki Kumari - Copy.jpg"
+                    src="images/2K19/Nikki kumari - Copy.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
