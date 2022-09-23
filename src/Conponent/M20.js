@@ -197,7 +197,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K20/Gayetri .jpg"
+                    src="images/2K20/GaYetri .jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
@@ -512,7 +512,7 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K20/AbhishekKumar.jpg"
+                    src="images/2K20/Abhishekkumar.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
