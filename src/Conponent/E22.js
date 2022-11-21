@@ -76,13 +76,6 @@ const E22 = () => {
         desc=" On the ocassion of environment day, NSS BIT Sindri came up with a 7 day awareness segment called हल FOR कल. It provided information about the major problems and issues prevailing in our environment and along with their solutions. Students came up with real problems like overpopulation, pollution, Deforestation, micro-plastics and many other."
         desc1="Date: 5 June 2022"
       />
-      <LeftSide
-        src="images/shirt.webp"
-        eventName="T-Shirt Design Contest"
-        desc="A most artistic online event for designing cool T-shirt designs for NSS BIT SINDRI.  It was a great opportunity for participants for showcasing their wonderful designing skill as ‘designing’ is an artistic ability and just pure creativity. Participants were  given full freedom for unleashing their creativity with only limitation that the design must contain logo of NSS and BIT SINDRI. And the participants had indeed come up with awesome wonderful designs.
-   "
-        desc1="Date :- 13th Jan - 17th Feb, 2022."
-      />
       <RightSide
         src="images/bdc2.webp"
         eventName="Blood Donation Camp"
