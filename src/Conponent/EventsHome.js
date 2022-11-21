@@ -71,11 +71,14 @@ export default class EventsHome extends Component {
         <Slider {...settings}>
           <div>
             <Item
-              src="images/shirt.webp"
+              src="images/Events/cddp.webp"
               title="2022"
-              href="/E22"
-              eventTitle="T-Shirt Design Contest :"
-              desc=" A most artistic online event for designing cool T-shirt designs for NSS BIT SINDRI. It was a great opportunity for participants for showcasing their wonderful designing skill as ‘designing’ is an artistic ability and just pure creativity. "
+              href="/E23"
+              eventTitle="Cloth Donation Drive :"
+              desc=" NSS BIT SINDRI organized
+              the  COLLECTION PHASE  for CLOTH DONATION DRIVE on WEDNESDAY the 16th of November, 2022.
+               Our aim was to connect those who don't have enough to those who have plenty & excess.
+              CLEAN & WASHED clothes was meant to be dropped. "
             ></Item>
           </div>
           <div>

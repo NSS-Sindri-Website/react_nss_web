@@ -63,8 +63,14 @@ function Navbar() {
                 <NavDropdown.Item as={Link} to="/M20" href="#m4">
                   <p className="droplinks"> 2020</p>
                 </NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/M21" href="#m5">
+                  <p className="droplinks"> 2021</p>
+                </NavDropdown.Item>
               </NavDropdown>
               <NavDropdown title="Events" id="basic-nav-dropdown">
+                <NavDropdown.Item as={Link} to="/E23" href="#e1">
+                  <p className="droplinks"> 2022-23</p>
+                </NavDropdown.Item>
                 <NavDropdown.Item as={Link} to="/E22" href="#e1">
                   <p className="droplinks"> 2021-22</p>
                 </NavDropdown.Item>

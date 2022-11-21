@@ -3,7 +3,7 @@ import React from "react";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 import "./M19.css";
 // import { FaFacebookF, FaInstagram, FaLinkedin } from "react-icons/fa";
-function M19() {
+const M20 = () => {
   return (
     <div>
       <h1 className="h1">Meet Our Team</h1>
@@ -57,21 +57,21 @@ function M19() {
                 </div>
               </div>
             </div>
-
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K20/AbhishekKumarShukla_.jpg"
+                    src="images/2K20/Pranshu .jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
                 </div>
                 <div class="member-info">
-                  <h4>Abhishek Shukla</h4>
+                  <h4>Priyanshu Kesri</h4>
                 </div>
               </div>
             </div>
+
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
@@ -146,7 +146,7 @@ function M19() {
                 </div>
               </div>
             </div>
-            
+
             <br />
             <br />
           </div>
@@ -289,13 +289,13 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K20/Prabhatkr.jpg"
-                    class="img-fluid team_img more_pad"
+                    src="images/2K20/Ankit Sharma.jpg"
+                    class="img-fluid team_img "
                     alt=""
                   />
                 </div>
                 <div class="member-info">
-                  <h4>Prabhat Kumar Singh</h4>
+                  <h4>Ankit Sharma</h4>
                 </div>
               </div>
             </div>
@@ -317,13 +317,13 @@ function M19() {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K20/PriyanshuKumar.jpg"
+                    src="images/2K20/AbhishekKumarShukla_.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
                 </div>
                 <div class="member-info">
-                  <h4>Priyanshu Kesri</h4>
+                  <h4>Abhishek Shukla</h4>
                 </div>
               </div>
             </div>
@@ -522,6 +522,106 @@ function M19() {
                 </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/rahul kumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Rahul Kumar</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Jaideo Vishwakarma.jpg"
+                    class="img-fluid team_img "
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Jaideo Vishwakarma</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Abhishek Choudhary.jpg"
+                    class="img-fluid team_img more_pad"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Abhishek Choudhary</h4>
+                </div>
+              </div>
+            </div>
+            <br />
+            <br />
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Medha Singh.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Medha Singh</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Abhishek Kumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Abhishek Kumar</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Aditya Kumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Aditya Kumar</h4>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/ankit Kashyap.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Ankit Kashyap</h4>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -529,6 +629,6 @@ function M19() {
       <br />
     </div>
   );
-}
+};
 
-export default M19;
+export default M20;
