@@ -215,13 +215,13 @@ const M20 = () => {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K20/GorellaKumar.jpg"
+                    src="images/2K20/Manish.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
                 </div>
                 <div class="member-info">
-                  <h4>Gorella Kumar</h4>
+                  <h4>Manish Kumar</h4>
                 </div>
               </div>
             </div>
@@ -349,13 +349,13 @@ const M20 = () => {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K20/shiv1.jpg"
+                    src="images/2K20/ankit Kashyap.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
                 </div>
                 <div class="member-info">
-                  <h4>Shiv Prasad Shaw</h4>
+                  <h4>Ankit Kashyap</h4>
                 </div>
               </div>
             </div>
@@ -594,17 +594,18 @@ const M20 = () => {
                 </div>
               </div>
             </div>
+
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K20/Aditya Kumar.jpg"
+                    src="images/2K20/shiv1.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
                 </div>
                 <div class="member-info">
-                  <h4>Aditya Kumar</h4>
+                  <h4>Shiv Prasad Shaw</h4>
                 </div>
               </div>
             </div>
@@ -612,14 +613,28 @@ const M20 = () => {
               <div class="member">
                 <div class="member-img">
                   <img
-                    src="images/2K20/ankit Kashyap.jpg"
+                    src="images/2K20/GorellaKumar.jpg"
                     class="img-fluid team_img"
                     alt=""
                   />
                 </div>
                 <div class="member-info">
-                  <h4>Ankit Kashyap</h4>
+                  <h4>Gorella Kumar</h4>
                 </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img
+                  src="images/2K20/Aditya Kumar.jpg"
+                  class="img-fluid team_img"
+                  alt=""
+                />
+              </div>
+              <div class="member-info">
+                <h4>Aditya Kumar</h4>
               </div>
             </div>
           </div>
