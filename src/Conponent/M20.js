@@ -27,7 +27,6 @@ const M20 = () => {
               adipisci expedita at voluptas atque vitae autem.
             </p>
           </div> */}
-
           <div class="row">
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
               <div class="member">
@@ -624,17 +623,33 @@ const M20 = () => {
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member">
-              <div class="member-img">
-                <img
-                  src="images/2K20/Aditya Kumar.jpg"
-                  class="img-fluid team_img"
-                  alt=""
-                />
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Suraj.jpg"
+                    class="img-fluid team_img more_pad"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Suraj Kumar Paswan</h4>
+                </div>
               </div>
-              <div class="member-info">
-                <h4>Aditya Kumar</h4>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Aditya Kumar.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Aditya Kumar</h4>
+                </div>
               </div>
             </div>
           </div>
