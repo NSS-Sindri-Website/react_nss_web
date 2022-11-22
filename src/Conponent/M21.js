@@ -46,16 +46,16 @@ const M21 = () => {
           <br />
           <div class="row">
             <MemberInfo
-              src="images/2K21/Aditya kumar Mahato.jpg"
+              src="images/2k21/Aditya kumar Mahato.jpg"
               name="Aditya kumar Mahato"
             />
             <MemberInfo
-              src="images/2K21/Alok Singh NSS.jpg"
+              src="images/2k21/Alok Singh NSS.jpg"
               name="Alok Singh"
             />
             <MemberInfo src="images/2K21/Amit kumar.jpg" name="Amit kumar" />
             <MemberInfo
-              src="images/2K21/Anand Raj_ImageSaizeReducer.jpg"
+              src="images/2k21/Anand Raj_ImageSaizeReducer.jpg"
               name="Anand Raj"
             />
 
@@ -64,19 +64,19 @@ const M21 = () => {
           </div>
           <div class="row">
             <MemberInfo
-              src="images/2K21/anoj kumar jpg.jpg"
+              src="images/2k21/anoj kumar jpg.jpg"
               name="Anoj Kumar "
             />
             <MemberInfo
-              src="images/2K21/Chunnu kumar singhNSS.jpg"
+              src="images/2k21/Chunnu kumar singhNSS.jpg"
               name="Chunnu kumar singh"
             />
             <MemberInfo
-              src="images/2K21/Ekhlaq Sarwer.jpg"
+              src="images/2k21/Ekhlaq Sarwer.jpg"
               name="Ekhlaq Sarwer"
             />
             <MemberInfo
-              src="images/2K21/Hemant kumar thakur.jpg"
+              src="images/2k21/Hemant kumar thakur.jpg"
               name="Hemant Kumar Thakur"
             />
             <br />
@@ -84,44 +84,44 @@ const M21 = () => {
           </div>
           <div class="row">
             <MemberInfo
-              src="images/2K21/Akash Pandey.jpg"
+              src="images/2k21/Akash Pandey.jpg"
               name="Akash Pandey"
             />
             <MemberInfo
-              src="images/2K21/Kumar Rakshit.jpg"
+              src="images/2k21/Kumar Rakshit.jpg"
               name="Kumar Rakshit"
             />
             <MemberInfo
-              src="images/2K21/MAHBOOB ALAM.jpg"
+              src="images/2k21/MAHBOOB ALAM.jpg"
               name="Mahboob Alam"
             />
             <MemberInfo
-              src="images/2K21/Manisha Kumari_.jpg"
+              src="images/2k21/Manisha Kumari_.jpg"
               name="Manisha Kumari"
             />
             <br />
             <br />
           </div>
           <div class="row">
-            <MemberInfo src="images/2K21/Md Afroz_.jpg" name="Md Afroz" />
+            <MemberInfo src="images/2k21/Md Afroz_.jpg" name="Md Afroz" />
             <MemberInfo
-              src="images/2K21/MD KAIF ALAM_.jpg"
+              src="images/2k21/MD KAIF ALAM_.jpg"
               name="MD KAIF ALAM"
             />
-            <MemberInfo src="images/2K21/Mehar.jpg" name="Mehar" />
-            <MemberInfo src="images/2K21/Mishan .pic.jpg" name="Mishan " />
+            <MemberInfo src="images/2k21/Mehar.jpg" name="Mehar" />
+            <MemberInfo src="images/2k21/Mishan .pic.jpg" name="Mishan " />
           </div>
           <br />
           <br />
           <div class="row">
             <MemberInfo
-              src="images/2K21/mohit ranjan.jpg"
+              src="images/2k21/mohit ranjan.jpg"
               name="Mohit Ranjan"
             />
-            <MemberInfo src="images/2K21/Nandani.jpg" name="Nandani" />
-            <MemberInfo src="images/2K21/Pawan Kumar.jpg" name="Pawan Kumar" />
+            <MemberInfo src="images/2k21/Nandani.jpg" name="Nandani" />
+            <MemberInfo src="images/2k21/Pawan Kumar.jpg" name="Pawan Kumar" />
             <MemberInfo
-              src="images/2K21/Piyush Tiwari.jpg"
+              src="images/2k21/Piyush Tiwari.jpg"
               name="Piyush Tiwari"
             />
           </div>
@@ -129,36 +129,36 @@ const M21 = () => {
           <br />
           <div class="row">
             <MemberInfo
-              src="images/2K21/Sakshi kumari mishra.jpg"
+              src="images/2k21/Sakshi kumari mishra.jpg"
               name="Sakshi Kumari Mishra"
             />
             <MemberInfo
-              src="images/2K21/Sheetal Priya .jpg"
+              src="images/2k21/Sheetal Priya .jpg"
               name="Sheetal Priya "
             />
             <MemberInfo
-              src="images/2K21/Sitamani Hembram_.jpg"
+              src="images/2k21/Sitamani Hembram_.jpg"
               name="Sitamani Hembram"
             />
-            <MemberInfo src="images/2K21/sohel khan_1.jpg" name="Sohel Khan" />
+            <MemberInfo src="images/2k21/sohel khan_1.jpg" name="Sohel Khan" />
           </div>
           <br />
           <br />
           <div class="row">
             <MemberInfo
-              src="images/2K21/Suraj Kumar_ImageSaizeReducer.jpg"
+              src="images/2k21/Suraj Kumar_ImageSaizeReducer.jpg"
               name="Suraj Kumar"
             />
             <MemberInfo
-              src="images/2K21/TEJNARAYANKUMAR.jpg"
+              src="images/2k21/TEJNARAYANKUMAR.jpg"
               name="TEJ NARAYAN KUMAR"
             />
             <MemberInfo
-              src="images/2K21/Vikash Hembram(ME)2K21_ImageSaizeReducer.jpg"
+              src="images/2k21/Vikash Hembram(ME)2K21_ImageSaizeReducer.jpg"
               name="Vikash Hembram"
             />
             <MemberInfo
-              src="images/2K21/Vikram Pandey .jpg"
+              src="images/2k21/Vikram Pandey .jpg"
               name="Vikram Pandey "
             />
           </div>
@@ -166,11 +166,11 @@ const M21 = () => {
           <br />
           <div class="row">
             <MemberInfo
-              src="images/2K21/Vishnu Vaibhav.jpg"
+              src="images/2k21/Vishnu Vaibhav.jpg"
               name="Vishnu Vaibhav"
             />
             <MemberInfo
-              src="images/2K21/Zaid Ahmad Ansari.png"
+              src="images/2k21/Zaid Ahmad Ansari.png"
               name="Zaid Ahmad Ansari "
             />
           </div>
