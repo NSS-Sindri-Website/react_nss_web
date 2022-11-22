@@ -34,11 +34,14 @@ const M21 = () => {
       <div id="" class="team">
         <div class="container">
           <div class="row">
-            <MemberInfo src="images/2K21/Anjali.jpg" name="Anjali" />
-            <MemberInfo src="images/2K21/Aditya.png" name="Aditya" />
-            <MemberInfo src="images/2K21/Indrani Das.jpg" name="Indrani Das" />
+            <MemberInfo src="images/2k21/anjali kumari k.jpg" name="Anjali" />
+            <MemberInfo src="images/2k21/aditya k.png" name="Aditya" />
             <MemberInfo
-              src="images/2K21/Aaron Rohi Lakra.jpg"
+              src="images/2k21/indrani das k.jpg"
+              name="Indrani Das"
+            />
+            <MemberInfo
+              src="images/2k21/aaron rohi lakra k.jpg"
               name="Aaron Rohi Lakra"
             />
           </div>
@@ -53,7 +56,7 @@ const M21 = () => {
               src="images/2k21/Alok Singh NSS.jpg"
               name="Alok Singh"
             />
-            <MemberInfo src="images/2K21/Amit kumar.jpg" name="Amit kumar" />
+            <MemberInfo src="images/2k21/amit kumar k.jpg" name="Amit kumar" />
             <MemberInfo
               src="images/2k21/Anand Raj_ImageSaizeReducer.jpg"
               name="Anand Raj"
