@@ -76,11 +76,11 @@ const GalleryFullPage = () => {
     },
     {
       id: 19,
-      imgSrc: "images/Events/sam13.jpg.jpg",
+      imgSrc: "images/Events/sam13.jpg",
     },
     {
       id: 20,
-      imgSrc: "images/Events/b7.jpg",
+      imgSrc: "images/Events/bk7.jpg",
     },
     {
       id: 21,
@@ -136,7 +136,7 @@ const GalleryFullPage = () => {
     },
     {
       id: 34,
-      imgSrc: "images/Events/b10.jpg",
+      imgSrc: "images/Events/bk10.jpg",
     },
     {
       id: 35,
@@ -148,7 +148,7 @@ const GalleryFullPage = () => {
     },
     {
       id: 37,
-      imgSrc: "images/Events/b8.jpg",
+      imgSrc: "images/Events/bk8.jpg",
     },
     {
       id: 38,
@@ -176,7 +176,7 @@ const GalleryFullPage = () => {
     },
     {
       id: 44,
-      imgSrc: "images/Events/b6.jpg",
+      imgSrc: "images/Events/bk6.jpg",
     },
     {
       id: 45,
@@ -204,15 +204,15 @@ const GalleryFullPage = () => {
     },
     {
       id: 51,
-      imgSrc: "images/Events/b1.jpg",
+      imgSrc: "images/Events/bk1.jpg",
     },
     {
       id: 52,
-      imgSrc: "images/Events/b2.jpg",
+      imgSrc: "images/Events/bk2.jpg",
     },
     {
       id: 53,
-      imgSrc: "images/Events/b4.jpg",
+      imgSrc: "images/Events/bk4.jpg",
     },
     {
       id: 54,
@@ -220,11 +220,11 @@ const GalleryFullPage = () => {
     },
     {
       id: 55,
-      imgSrc: "images/Events/b9.jpg",
+      imgSrc: "images/Events/bk9.jpg",
     },
     {
       id: 56,
-      imgSrc: "images/Events/b3.jpg",
+      imgSrc: "images/Events/bk3.jpg",
     },
     {
       id: 57,
@@ -232,7 +232,7 @@ const GalleryFullPage = () => {
     },
     {
       id: 58,
-      imgSrc: "images/Events/b5.jpg",
+      imgSrc: "images/Events/bk5.jpg",
     },
     {
       id: 59,
@@ -244,7 +244,15 @@ const GalleryFullPage = () => {
     },
     {
       id: 61,
-      imgSrc: "images/Events/b11.jpg",
+      imgSrc: "images/Events/bk11.jpg",
+    },
+    {
+      id: 62,
+      imgSrc: "images/Events/b1.png",
+    },
+    {
+      id: 63,
+      imgSrc: "images/Events/b2.png",
     },
   ];
   const [model, setModel] = useState(false);
