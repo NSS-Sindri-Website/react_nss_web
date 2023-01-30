@@ -652,6 +652,20 @@ const M20 = () => {
                 </div>
               </div>
             </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member">
+                <div class="member-img">
+                  <img
+                    src="images/2K20/Yasin.jpg"
+                    class="img-fluid team_img"
+                    alt=""
+                  />
+                </div>
+                <div class="member-info">
+                  <h4>Khushdil Yasin</h4>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
