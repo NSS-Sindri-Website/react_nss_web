@@ -69,7 +69,7 @@ Mahatma Gandhi"
         </Carousel.Item>
         <Carousel.Item>
           <Images
-            src="images/img3.jpeg"
+            src="images/hero.jpg"
             heading="YOUTH FOR SUSTAINABLE DEVELOPMENT"
             quote="Creating an awareness for improvement of the status of
 our culture."

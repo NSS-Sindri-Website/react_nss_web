@@ -10,14 +10,14 @@ const Modal = ({ open, onClose }) => {
         }}
         className="modalContainer1"
       >
-        <img className="modalImg" src="images/wel.png" alt="/" />
+        <img className="modalImg" src="images/wel3.png" alt="/" />
         <div className="modalRight1">
           <p className="closeBtn1" onClick={onClose}>
             X
           </p>
           <div className="content1">
             <h1>NSS BIT SINDRI </h1>
-            <p>Welcomes the Batch of 2k22</p>
+            <p>Welcomes the Batch of 2k23</p>
           </div>
         </div>
       </div>

@@ -22,6 +22,7 @@ import E20 from "./Conponent/E20";
 import E21 from "./Conponent/E21";
 import E22 from "./Conponent/E22";
 import E23 from "./Conponent/E23";
+import E24 from "./Conponent/E24";
 function Routelinkas() {
   return (
     <div>
@@ -48,6 +49,7 @@ function Routelinkas() {
           <Route path="/E21" element={<E21 />} />
           <Route path="/E22" element={<E22 />} />
           <Route path="/E23" element={<E23 />} />
+          <Route path="/E24" element={<E24 />} />
         </Routes>
         <Footer />
       </BrowserRouter>

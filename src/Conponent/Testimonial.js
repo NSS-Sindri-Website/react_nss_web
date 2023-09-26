@@ -37,8 +37,8 @@ export default function Testimonial() {
           >
             <SwiperSlide>
               <div class="testimonial-item ">
-                <img src="images/dksingh.png" class="testimonial-img" alt="" />
-                <h3> Dr. D.K. Singh</h3>
+                <img src="images/dir.webp" class="testimonial-img" alt="" />
+                <h3> Prof. Pankaj Rai</h3>
                 <h4 className="testh4">Director, B.I.T Sindri</h4>
               </div>
             </SwiperSlide>

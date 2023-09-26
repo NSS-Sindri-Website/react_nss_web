@@ -71,6 +71,18 @@ export default class EventsHome extends Component {
         <Slider {...settings}>
           <div>
             <Item
+              src="images/Events/2k24/wow2.webp"
+              title="2023"
+              href="/E24"
+              eventTitle="Swatantra: War Of Words (W.O.W) Season 2:"
+              desc=" As part of their Swatantra initiative, NSS BIT Sindri hosted the dynamic War of Words debate
+competition, which unfolded in two captivating seasons. Season One kicked off as an online
+challenge, where participants engaged in thought-provoking group discussions on a wide array
+of topics. "
+            ></Item>
+          </div>
+          <div>
+            <Item
               src="images/Events/cddp.webp"
               title="2022"
               href="/E23"
