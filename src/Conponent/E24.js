@@ -43,7 +43,7 @@ const EventYear = (props) => {
 const E24 = () => {
   return (
     <div className="MainEventCon">
-      <EventYear eventYear="2022-23" id="e1" />
+      <EventYear eventYear="2023-24" id="e1" />
       <RightSide
         src="images/Events/2k24/wow2.webp"
         eventName="Swatantra: War Of Words (W.O.W) Season 2"
