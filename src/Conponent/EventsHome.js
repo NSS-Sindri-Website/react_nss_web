@@ -72,16 +72,6 @@ export default class EventsHome extends Component {
           <div>
             <Item
               src="images/Events/2k24/wow2.webp"
-              title="2024"
-              href="/E24"
-              eventTitle="Swjkfjdfodsason 2:"
-              desc=" kfjdkfldsafkdjflkdslkfldklfscussions on a wide array
-of topics. "
-            ></Item>
-          </div>
-          <div>
-            <Item
-              src="images/Events/2k24/wow2.webp"
               title="2023"
               href="/E24"
               eventTitle="Swatantra: War Of Words (W.O.W) Season 2:"

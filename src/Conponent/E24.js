@@ -129,14 +129,6 @@ tobacco-free future for our youth and our nation. Together, we can make a differ
    "
         desc1="Date  :-31st May 2023"
       />
-
-      <LeftSide
-        src="images/au.jpg"
-        eventName="Ambient 2.0"
-        desc="lojdjfldkflkslsjd
-   "
-        desc1="Date  :-5th June 2023"
-      />
     </div>
   );
 };
