@@ -17,7 +17,7 @@ const Modal = ({ open, onClose }) => {
           </p>
           <div className="content1">
             <h1>NSS BIT SINDRI </h1>
-            <p>Welcomes the Batch of 2k23</p>
+            <p>Welcomes the Batch of 2k24</p>
           </div>
         </div>
       </div>

@@ -108,9 +108,19 @@ function Navbar() {
                 >
                   <p className="droplinks"> 2021</p>
                 </NavDropdown.Item>
+                <NavDropdown.Item
+                  as={Link}
+                  to="/M22"
+                  href="#m5"
+                  onClick={() => {
+                    ".navbar-collapse".collapse("hide");
+                  }}
+                >
+                  <p className="droplinks"> 2022</p>
+                </NavDropdown.Item>
               </NavDropdown>
               <NavDropdown title="Events" id="basic-nav-dropdown">
-              <NavDropdown.Item
+                <NavDropdown.Item
                   as={Link}
                   to="/E24"
                   href="#e1"
