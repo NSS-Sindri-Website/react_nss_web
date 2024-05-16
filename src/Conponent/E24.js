@@ -129,6 +129,12 @@ tobacco-free future for our youth and our nation. Together, we can make a differ
    "
         desc1="Date  :-31st May 2023"
       />
+            <LeftSide
+        src="images/Events/2k24/ambient2.jpg"
+        eventName="TEst event"
+        desc="loreasmflkdsfdslhfsdncjkxhcjkznjksdhfncmznxjkzkhckxzcnmxz"
+        desc1="Date  :-1th May 2024"
+      />
     </div>
   );
 };

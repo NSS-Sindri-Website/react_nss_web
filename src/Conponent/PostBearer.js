@@ -49,214 +49,286 @@ const PostBearer = () => {
         >
           <SwiperSlide>
             <Item
-              src="images/2K20/VIVEKKUMAR.jpg"
+              src="images/2k21/amit kumar k.jpg"
               a="President"
-              name="Vivek Kumar"
+              name="Amit Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/adarsh.webp"
+              src="images/2k21/Ekhlaq Sarwer.jpg"
               a="Vice President"
-              name="Adarsh Kumar"
+              name="Ekhlaq Sarwer"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/Sneha.jpg"
+              src="images/2k21/Sheetal Priya .jpg"
               a="Vice President"
-              name="Sneha Kumari"
+              name="Sheetal Priya"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
               className="ssi"
-              src="images/2K20/Pranshu .jpg"
+              src="images/2k21/Vishnu Vaibhav.jpg"
               a="Secretary"
-              name="Priyanshu Kumar Kesri"
+              name="Vishnu Vaibhav"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/GaYetri .jpg"
+              src="images/2k21/av.jpg"
               a="Joint Secretary"
-              name="Gayetri Murmu"
+              name="Rishita Dutta"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/ankit Kashyap.jpg"
+              src="images/2k21/Mishan .pic.jpg"
+              a="Joint Secretary"
+              name="Mishan Kr. Mahato"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/Md Afroz_.jpg"
               a="Treasurer"
-              name="Ankit Kashyap"
+              name="Md. Afroz"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/Gauravswansi.jpg"
+              src="images/2k21/Kumar Rakshit.jpg"
               a="Joint Treasurer"
-              name="Gaurav Swansi"
+              name="Kumar Rakshit"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/ak.jpg"
+              src="images/2k21/Vikram Pandey .jpg"
+              a="Joint Treasurer"
+              name="Vikram Pandey"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/Hemant kumar thakur.jpg"
+              a="Chief Operational Officer"
+              name="Hemant Kr. Thakur"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="Chief Operational Officer"
+              name="Sakshi Lakra"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/Vikash Hembram(ME)2K21_ImageSaizeReducer.jpg"
+              a="Chief Operational Officer"
+              name="Vikash Hembram"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/aaron rohi lakra k.jpg"
               a="Technical Head"
-              name="Ankit Kishore Khalkho"
+              name="Aaron Rohi Lakra"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/DanishHussain.jpg"
+              src="images/2k21/Mehar.jpg"
               a="Technical Head"
-              name="Danish Hussain"
+              name="Mehar Talat"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/Shubham.jpg"
+              src="images/2k21/av.jpg"
               a="Technical Head"
-              name="Shubham
-              Baranwal"
+              name="Akash Barnwal"
             />
           </SwiperSlide>
           <SwiperSlide>
-            <Item src="images/2K20/Om.jpg" a="Meeting Head" name="Om Prakash" />
+            <Item src="images/2k21/av.jpg" 
+            a="Meeting Head" 
+            name="Marzuqua Siddique" />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/Manishakumari.jpg"
+              src="images/2k21/av.jpg"
               a="Meeting Head"
+              name="Raj"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="Media Head"
+              name="Robin Kumar"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/Aditya kumar Mahato.jpg"
+              a="Media Head"
+              name="Aditya Mahato"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/indrani das k.jpg"
+              a="Media Head"
+              name="Indrani Das"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/anjali kumari k.jpg"
+              a="Program Coordinator"
+              name="Anjali Kumari"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="Program Coordinator"
+              name="Pankaj Kumar"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="Program Coordinator"
+              name="Sanjeev Kumar"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="PRO"
+              name="Piyush Ranjan"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="PRO"
+              name="Siddhi Dubey"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item src="images/2k21/av.jpg" a="PRO" name="Alok Mishra" />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="Alumni Incharge"
+              name="Kashaf Fateema"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="Alumni Incharge"
+              name="Piyush Ranjan"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/mohit ranjan.jpg"
+              a="Alumni Incharge"
+              name="Mohit Ranjan"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="Sponsor Head"
+              name="Amarjeet Kumar"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="Sponsor Head"
+              name="Shuvam Banarjee"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/Nandani.jpg"
+              a="Sponsor Head"
+              name="Nandani Kumari"
+            />
+          </SwiperSlide>
+          
+
+          <SwiperSlide>
+            <Item
+              src="images/2k21/Anand Raj_ImageSaizeReducer.jpg"
+              a="Planning and Execution Head"
+              name="Anand Raj"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="Planning and Execution Head"
+              name="Saiyam Arya"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/sohel khan_1.jpg"
+              a="Planning and Execution Head"
+              name="Sohel Khan"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/av.jpg"
+              a="Survey Head"
+              name="Vishal Kumar"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/Sitamani Hembram_.jpg"
+              a="Survey Head"
+              name="Sitamani Hembrom"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Item
+              src="images/2k21/Manisha Kumari_.jpg"
+              a="Survey Head"
               name="Manisha Kumari"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/Ankit Sharma.jpg"
-              a="Meeting Head"
-              name="Ankit Sharma"
+              src="images/2k21/anoj kumar jpg.jpg"
+              a="Material Logistics Officer"
+              name="Anoj Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/Saumodeep.jpg"
-              a="Media Head"
-              name="Saumodeep Banrjee"
+              src="images/2k21/TEJNARAYANKUMAR.jpg"
+              a="Material Logistics Officer"
+              name="Tej Narayan Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2K20/shiv1.jpg"
-              a="Media Head"
-              name="Shiv Prasad Shaw"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/rahul kumar.jpg"
-              a="Media Head"
-              name="Rahul Kumar"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/Ashmi.jpg"
-              a="Program Coordinator"
-              name="Ashmi Singh"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/Mukund.jpg"
-              a="Program Coordinator"
-              name="Mukund Parasher"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/Akshat.jpg"
-              a="Program Coordinator"
-              name="Akshat Ashish"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/Medha Singh.jpg"
-              a="PRO"
-              name="Medha Singh"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/AbhishekKumarShukla_.jpg"
-              a="PRO"
-              name="Abhishek Shukla"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item src="images/2K20/Tejaswi.jpg" a="PRO" name="Tejaswi Pandey" />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/pratyush_kumar.jpg"
-              a="Alumni Incharge"
-              name="Pratyush Kumar"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/Abhishek Kumar.jpg"
-              a="Alumni Incharge"
-              name="Abhishek Kumar"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/Manish.jpg"
-              a="Alumni Incharge"
-              name="Manish kumar"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/sammi.jpg"
-              a="Inventory Head"
-              name="Sammi Kumari"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/Abhishek Choudhary.jpg"
-              a="Inventory Head"
-              name="Abhishek Choudhary"
-            />
-          </SwiperSlide>
-
-          <SwiperSlide>
-            <Item
-              src="images/2K20/NikitaKumari.jpg"
-              a="Planning and Execution Head"
-              name="Nikita Kumari"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/AnupriyaKumari.jpg"
-              a="Planning and Execution Head"
-              name="Anupriya Kumari"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/Abhishekkumar.jpg"
-              a="Survey Head"
-              name="Abhishek Kumar"
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Item
-              src="images/2K20/sumit.jpg"
-              a="Survey Head"
-              name="Sumit Pradhan"
+              src="images/2k21/Chunnu kumar singhNSS.jpg"
+              a="Material Logistics Officer"
+              name="Chunnu Kumar Singh"
             />
           </SwiperSlide>
         </Swiper>

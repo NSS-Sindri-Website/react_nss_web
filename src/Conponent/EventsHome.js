@@ -69,6 +69,16 @@ export default class EventsHome extends Component {
       <div className="post_event_events">
         <h2> EVENTS </h2>
         <Slider {...settings}>
+        <div>
+            <Item
+              src="images/Events/blood_donation_24.png"
+              title="2024"
+              href="/E24"
+              eventTitle="Blood Donation Camp"
+              desc=" With every heart beat we live to see the sunset, with each drop of blood donated; another precious life will live to see the sunrise.
+              A recent blood donation camp held in BIT Sindri campus and it was a resounding success, collecting a 150  units of life-saving blood. Moreover , a team from PMCH Dhanbad has also added the positive atmosphere ."
+            ></Item>
+          </div>
           <div>
             <Item
               src="images/Events/2k24/wow2.webp"

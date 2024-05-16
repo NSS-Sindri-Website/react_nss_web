@@ -254,6 +254,10 @@ const GalleryFullPage = () => {
       id: 63,
       imgSrc: "images/Events/b2.png",
     },
+    {
+      id: 64,
+      imgSrc: "images/Events/13.jpg",
+    },
   ];
   const [model, setModel] = useState(false);
   const [tempImgSrc, setTempImgSrc] = useState("");
