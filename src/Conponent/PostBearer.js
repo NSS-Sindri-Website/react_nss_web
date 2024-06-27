@@ -49,21 +49,21 @@ const PostBearer = () => {
         >
           <SwiperSlide>
             <Item
-              src="images/2k21/amit kumar k.jpg"
+              src="images/2k21/Amit.jpeg"
               a="President"
               name="Amit Kumar"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k21/Ekhlaq Sarwer.jpg"
+              src="images/2k21/Ekhlaq Sarwer11.jpg"
               a="Vice President"
               name="Ekhlaq Sarwer"
             />
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k21/Sheetal Priya .jpg"
+              src="images/2k21/Sheetal Priya.jpg"
               a="Vice President"
               name="Sheetal Priya"
             />
@@ -92,7 +92,7 @@ const PostBearer = () => {
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k21/Md Afroz_.jpg"
+              src="images/2k21/Afroz.jpeg"
               a="Treasurer"
               name="Md. Afroz"
             />
@@ -113,7 +113,7 @@ const PostBearer = () => {
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k21/Hemant kumar thakur.jpg"
+              src="images/2k21/HEMANT THAKUR.png"
               a="Chief Operational Officer"
               name="Hemant Kr. Thakur"
             />
@@ -254,7 +254,7 @@ const PostBearer = () => {
           </SwiperSlide>
           <SwiperSlide>
             <Item
-              src="images/2k21/av.jpg"
+              src="images/2k21/Shuvam Banerjee.jpg"
               a="Sponsor Head"
               name="Shuvam Banarjee"
             />
@@ -270,7 +270,7 @@ const PostBearer = () => {
 
           <SwiperSlide>
             <Item
-              src="images/2k21/Anand Raj_ImageSaizeReducer.jpg"
+              src="images/2k21/Anand Raj.jpg"
               a="Planning and Execution Head"
               name="Anand Raj"
             />
