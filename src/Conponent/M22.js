@@ -36,7 +36,7 @@ const M21 = () => {
         <div class="container">
           <div class="row">
             <MemberInfo src="images/2K22/Aditya Kumar Rajak.jpg" name="Aditya Kumar" />
-            <MemberInfo src="images/2k22/Aman Singh.jpg" name="Aman Singh" />
+            <MemberInfo src="images/2k22/Aman Singh.jpeg" name="Aman Singh" />
             <MemberInfo
               src="images/2K22/Anil Chandra Kisku.jpg"
               name="Anil Chandra Kisku"
@@ -112,7 +112,7 @@ const M21 = () => {
               src="images/2K22/Narayan.jpg"
               name="Narayan"
             />
-            <MemberInfo src="images/2K22/navin.jpg" name="Kumar Navin" />
+            <MemberInfo src="images/2K22/navin.JPG" name="Kumar Navin" />
             <MemberInfo src="images/2K22/Nayan Sinha.jpg" name="Nayan Sinha" />
           </div>
           <br />

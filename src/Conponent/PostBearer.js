@@ -49,7 +49,7 @@ const PostBearer = () => {
         >
           <SwiperSlide>
             <Item
-              src="images/2k21/Amit.jpeg"
+              src="images/2k21/Amit1.jpeg"
               a="President"
               name="Amit Kumar"
             />
@@ -71,7 +71,7 @@ const PostBearer = () => {
           <SwiperSlide>
             <Item
               className="ssi"
-              src="images/2k21/Vishnu Vaibhav.jpg"
+              src="images/2k21/Vishnu Vaibhav1.jpg"
               a="Secretary"
               name="Vishnu Vaibhav"
             />
