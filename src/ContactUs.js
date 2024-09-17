@@ -111,7 +111,7 @@ const ContactUs = () => {
                   <FaPhoneAlt size="2rem" color="green" />
                   <div className="topic">Phone</div>
                   <div className="text-one"><a href="tel:+919470183356">+919470183356</a> </div>
-                  <div className="text-two"><a href="tel:+916200481188">+916200481188</a> </div>
+                  <div className="text-two"><a href="tel:+916200481188">+916203019572</a> </div>
 
                 </div>
                 <div className="email details">

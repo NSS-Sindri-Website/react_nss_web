@@ -84,7 +84,7 @@ const Footer = () => {
                     </a>
                   </div>
                   <div className="col-3 social">
-                    <a href="https://www.instagram.com/nss_bitsindri/?hl=en">
+                    <a href="https://www.instagram.com/nssbitsindri/">
                       <FaInstagram size="3rem" color="white" />
                     </a>
                   </div>
