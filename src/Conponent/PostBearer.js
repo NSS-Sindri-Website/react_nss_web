@@ -345,7 +345,7 @@ const PostBearer = () => {
             <Item
               src="images/2K22/Karan Bhadani.jpg"
               a="PRO"
-              name="Karan Kumar"
+              name="Karan Kumar Bhadani"
             />
           </SwiperSlide>
 
