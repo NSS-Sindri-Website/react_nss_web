@@ -20,7 +20,7 @@ const MemberInfo = (props) => {
 };
 
 // ------------------Batch of 2k22----------------------
-const M21 = () => {
+const M22 = () => {
   return (
     <div>
       <h1 className="h1">Meet Our Team</h1>
@@ -215,4 +215,4 @@ const M21 = () => {
   );
 };
 
-export default M21;
+export default M22;

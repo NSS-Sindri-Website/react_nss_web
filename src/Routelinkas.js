@@ -18,6 +18,7 @@ import M19 from "./Conponent/M19";
 import M20 from "./Conponent/M20";
 import M21 from "./Conponent/M21";
 import M22 from "./Conponent/M22";
+import M23 from "./Conponent/M23";
 import E19 from "./Conponent/E19";
 import E20 from "./Conponent/E20";
 import E21 from "./Conponent/E21";
@@ -46,6 +47,7 @@ function Routelinkas() {
           <Route path="/M20" element={<M20 />} />
           <Route path="/M21" element={<M21 />} />
           <Route path="/M22" element={<M22 />} />
+          <Route path="/M23" element={<M23 />} />
           <Route path="/E19" element={<E19 />} />
           <Route path="/E20" element={<E20 />} />
           <Route path="/E21" element={<E21 />} />
