@@ -45,365 +45,357 @@ const PostBearer = () => {
           modules={[FreeMode, Pagination, Navigation]}
           className="mySwiper"
         >
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Kumar Anish.jpg"
-              a="President"
-              name="Anish Kumar Mahato"
-            />
-          </SwiperSlide>
+         <SwiperSlide>
+  <Item
+    src="images/2k23/kabyanshu.png"
+    a="President"
+    name="Kabyanshu Kumar"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/USHA KIRAN.jpg"
-              a="Vice President"
-              name="Usha Kiran"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/aastha.png"
+    a="Vice President"
+    name="Aastha Kumari"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Ayush Kumar.jpg"
-              a="Vice President"
-              name="Ayush Kumar"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/anurag.png"
+    a="Vice President"
+    name="Anurag Singh"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/PRAKHAR SINGH.jpg"
-              a="Secretary"
-              name="Prakhar Singh"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/sourabh.png"
+    a="Secretary"
+    name="Sourabh Pandey"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Suchitra Sinku.jpg"
-              a="Joint Secretary"
-              name="Suchitra Sinku"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/shreya.png"
+    a="Joint Secretary"
+    name="Shreya Tirkey"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Suraj Kumar Das.jpg"
-              a="Joint Secretary"
-              name="Suraj Kumar Das"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/sachin.png"
+    a="Joint Secretary"
+    name="Sachin Karmali"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/AYUSH MISHRA.jpg"
-              a="Treasurer"
-              name="Ayush Mishra"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/santanu.png"
+    a="Treasurer"
+    name="Santanu Dey"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Md Ramiz.jpg"
-              a="Joint Treasurer"
-              name="Md Ramiz Ansari"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/sapna.png"
+    a="Joint Treasurer"
+    name="Sapna Rani"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Ravi Kumar Raj.jpg"
-              a="Joint Treasurer"
-              name="Ravi Kumar Raj"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/sankalp.png"
+    a="Joint Treasurer"
+    name="Sankalp Suman"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Nazia Afreen.jpg"
-              a="Joint Treasurer"
-              name="Nazia Afreen"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/shruti.png"
+    a="Chief Opr. Officer"
+    name="Shruti Pandey"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Puja Kumari.jpg"
-              a="Chief Operational Officer"
-              name="Puja Kumari"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/moly.png"
+    a="Chief Opr. Officer"
+    name="Moly Sarkar"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Arushi.jpeg"
-              a="Chief Operational Officer"
-              name="Arushi Lohra"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/sambhav.png"
+    a="Chief Opr. Officer"
+    name="Sambhav Pratap Singh"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Aditya Kumar Rajak.jpg"
-              a="Chief Operational Officer"
-              name="Aditya Kumar"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/pratima.png"
+    a="Chief Opr. Officer"
+    name="Pratima Hansda"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Poonam Sinha.jpg"
-              a="Chief Operational Officer"
-              name="Poonam Sinha"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/prashant_raj.png"
+    a="Chief Opr. Officer"
+    name="Prashant Raj"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Anil Chandra Kisku.jpg"
-              a="Technical Head"
-              name="Anil Kisku"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/sushma.png"
+    a="Technical Head"
+    name="Sushma Kumari"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/navin.JPG"
-              a="Technical Head"
-              name="Navin Kumar"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/vivek.png"
+    a="Technical Head"
+    name="Vivek Deogam"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Khushi Barnwal.jpg"
-              a="Technical Head"
-              name="Khushi Barnwal"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/rami.png"
+    a="Technical Head"
+    name="Rami Mardi"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Priyesh Tiwari.jpg"
-              a="Meeting Head"
-              name="Priyesh Tiwari"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/muskan.png"
+    a="Alumini Incharge"
+    name="Muskan Kumari"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Shikha Rani Singh 46.jpg"
-              a="Meeting Head"
-              name="Shikha Singh"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/vaibhaw.png"
+    a="Alumini Incharge"
+    name="Vaibhaw Anand"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Mohit.jpg"
-              a="Meeting Head"
-              name="Mohit Gupta"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/satish.png"
+    a="Alumini Incharge"
+    name="Satish Kumar Sah"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Divyanshu Kumar.jpg"
-              a="Media Head"
-              name="Divyanshu"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/sonam.png"
+    a="Sponsor Head"
+    name="Sonam Kumari"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Arshi Malka.jpg"
-              a="Media Head"
-              name="Arshi Malka"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/yash.png"
+    a="Sponsor Head"
+    name="Yash Vardhan"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Sujay Chandra.jpg"
-              a="Media Head"
-              name="Sujay Chandra"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/mohit.png"
+    a="Sponsor Head"
+    name="Mohit Kumar"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Rahul Kumar (2).jpg"
-              a="Program Coordinator"
-              name="Rahul Kumar"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/prashant.png"
+    a="Sponsor Head"
+    name="Prashant Kumar"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Rani Saw.jpg"
-              a="Program Coordinator"
-              name="Rani Kumari"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/harsh.png"
+    a="PRO"
+    name="Harsh Kumar Anand"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Kshitiz Indra Guru.jpg"
-              a="Program Coordinator"
-              name="Kshitiz Indra Guru"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/jiya.png"
+    a="PRO"
+    name="Jiya Rani"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Utsav Kumar.jpg"
-              a="Survey Head"
-              name="Utsav Kumar"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/piyush.png"
+    a="PRO"
+    name="Piyush Raj"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Neha kumari.jpg"
-              a="Survey Head"
-              name="Neha Kumari"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/kumar_pratham.png"
+    a="PRO"
+    name="Kumar Pratham"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Anubhav Kumar.jpg"
-              a="Survey Head"
-              name="Anubhav Singh"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/somnath.png"
+    a="Media Head"
+    name="Somnath Pandey"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Sourav Kumar.jpg"
-              a="Alumni Incharge"
-              name="Sourav Kumar"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/muskan_kumari.png"
+    a="Media Head"
+    name="Muskan Kumari"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Rahul Kumar Civil.jpg"
-              a="Alumni Incharge"
-              name="Rahul Kumar"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/abhishek.png"
+    a="Media Head"
+    name="Abhishek Pandit"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Nishi kant Mandal.png"
-              a="Alumni Incharge"
-              name="Nishikant Mandal"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/rishabh.png"
+    a="Media Head"
+    name="Rishabh Kumar"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Ratna Priya.jpg"
-              a="Sponsor Head"
-              name="Ratna Priya"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/vishal.png"
+    a="Meeting Head"
+    name="Vishal Kumar"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Raj Yadav.jpg"
-              a="Sponsor Head"
-              name="Raj Yadav"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/aman_khan.png"
+    a="Media Head"
+    name="Aman Khan"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/deepak kumar rajak.jpg"
-              a="Sponsor Head"
-              name="Deepak Rajak"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/nagraj.png"
+    a="Meeting Head"
+    name="Nagraj Sahu"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Neelam Kumari.jpg"
-              a="PRO"
-              name="Neelam Kumari"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/vishal_yadav.png"
+    a="Program Coordinator"
+    name="Vishal Yadav"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Sanket Shashwat.jpg"
-              a="PRO"
-              name="Sanket Shashwat"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/dipak.png"
+    a="Program Coordinator"
+    name="Dipak Jaiswal"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Karan Bhadani.jpg"
-              a="PRO"
-              name="Karan Kumar Bhadani"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/ankit.png"
+    a="Program Coordinator"
+    name="Ankit Kumar"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Nayan Sinha.jpg"
-              a="PRO"
-              name="Nayan Sinha"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/nayan.png"
+    a="Survey Head"
+    name="Nayan Raj"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Vikram Modi.jpg"
-              a="Material Logistics Officer"
-              name="Vikram Modi"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/kumar_varun.png"
+    a="Survey Head"
+    name="Kumar Varun"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Aman Singh.jpeg"
-              a="Material Logistics Officer"
-              name="Aman Kumar"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/sagar.png"
+    a="Material Logis. Officer"
+    name="Sagar Kumar"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Prabhakar Raj.jpg"
-              a="Material Logistics Officer"
-              name="Prabhakar Raj"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/nityanand.png"
+    a="Material Logis. Officer"
+    name="Nityanand Chourasia"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Rounak Kishan.jpg"
-              a="Planning and Execution Head"
-              name="Raunak Kishan"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/prem.png"
+    a="Planning & Exe. Head"
+    name="Prem Kumar"
+  />
+</SwiperSlide>
 
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Narayan.jpg"
-              a="Planning and Execution Head"
-              name="Narayan Singh"
-            />
-          </SwiperSlide>
-
-          <SwiperSlide>
-            <Item
-              src="images/2K22/Ansh Kumar.jpg"
-              a="Planning and Execution Head"
-              name="Ansh Gupta"
-            />
-          </SwiperSlide>
+<SwiperSlide>
+  <Item
+    src="images/2k23/sahil.png"
+    a="Planning & Exe. Head"
+    name="Sahil Pandey"
+  />
+</SwiperSlide>
         </Swiper>
       </div>
     </>
