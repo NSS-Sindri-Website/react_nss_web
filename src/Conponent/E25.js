@@ -110,7 +110,7 @@ When awareness leads to action, justice follows. NSS BIT Sindri sincerely thanks
         desc1="Date  :-13th December 2025."
       />
       <RightSide
-        src="images/Events/2k25/clothesDonationDrive1.0.jpg"
+        src="images/Events/2k25/clothDonationDrive1.0.jpg"
         eventName="Clothes Donation Drive1.0"
         desc="NSS BIT Sindri successfully organized and executed the Cloth Donation Camp. The objective of this initiative was to share warmth and essential necessities with the people in need. It was a rewarding experience to see the positive impact of the donations firsthand.
 
