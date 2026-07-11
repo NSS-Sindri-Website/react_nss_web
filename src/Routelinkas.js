@@ -25,6 +25,8 @@ import E21 from "./Conponent/E21";
 import E22 from "./Conponent/E22";
 import E23 from "./Conponent/E23";
 import E24 from "./Conponent/E24";
+import E25 from "./Conponent/E25";
+import E26 from "./Conponent/E26";
 function Routelinkas() {
   return (
     <div>
@@ -37,7 +39,6 @@ function Routelinkas() {
           <Route path="/GalleryFullPage" element={<GalleryFullPage />} />
           <Route path="/TermAndCondition" element={<TermAndCondition />} />
           <Route path="/ContactUs" element={<ContactUs />} />
-
           <Route path="/Policy" element={<Policy />} />
           <Route path="/WebTechMembers" element={<WebTechMembers />} />
           <Route path="/Members" element={<Members />} />
@@ -54,6 +55,8 @@ function Routelinkas() {
           <Route path="/E22" element={<E22 />} />
           <Route path="/E23" element={<E23 />} />
           <Route path="/E24" element={<E24 />} />
+          <Route path="/E25" element={<E25 />} />
+          <Route path="/E26" element={<E26 />} />
         </Routes>
         <Footer />
       </BrowserRouter>
