@@ -47,80 +47,91 @@ const E25 = () => {
 
 
       <LeftSide
-        src="images/Events/2k24/yogaDay.jpg"
-        eventName="International Yoga Day"
-        desc="On the occasion of International yoga day,NSS BIT Sindri successfully organised a captivating webinar which aimed to promote the holistic benefits of yoga for mental, physical and spiritual well-being.
-        The webinar began with an inspiring keynote address by Ms. Debopriya Das, a YCB-qualified Level 2 Yoga and Wellness Instructor and Art of Living faculty member. This was followed by an engaging yoga session where participants actively learned and practiced various asanas and pranayama.
-        Interactive segments allowed attendees to ask questions, and the enthusiastic participation and positive feedback highlighted the event's success. Overall, the International Yoga Day webinar showcased the enduring appeal of yoga and its ability to unite people in the pursuit of harmony and peace.
+        src="images/Events/2k25/badlav.jpg"
+        eventName="Badlav, No More Hushh!!"
+        desc="BADLAV - an initiative by NSS Bit Sindri, is dedicated to breaking silence and encouraging open dialogue around sensitive yet essential issues. The focus lies on menstrual hygiene and child safety topics that shape young lives but are too often ignored or whispered about.
+
+The first session addresses menstrual hygiene, educating young girls on the importance of using sanitary pads, maintaining cleanliness during periods and following safe disposal practices. The aim is to replace myths with facts and help girls view menstruation as a natural and healthy process. It shapes individuals and societies, helping them move toward a better future.
+
+BADLAV is not just an event it is a step toward awareness, confidence and a future where growing up is guided by knowledge not silence. This initiative helps reduce social stigma, promotes healthy practices, strengthens children’s awareness about personal safety.ace.
 
 
 
    "
-        desc1="Date  :-21th June 2024."
+        desc1="Date  :-2nd  May 2026."
       />
       <RightSide
-        src="images/Events/2k24/badlav.jpg"
-        eventName="Badlav"
-        desc="NSS BIT Sindri with ACE BIT Sindri organised an event at DAV, Tasra on 12th march titled as 'Badlav-No More Hushh' aiming to educate and empower young minds on crucial topics like 'good touch and bad touch' and 'menstrual hygiene'.
-        The program emphasized the importance of understanding and recognizing the differences between good touch and bad touch. The event took a step further by distributing pads to the young girls of class 5 to 8. Spreading the significance of maintaining menstrual hygiene for a brighter and healthier future. Principal of DAV Tasra, Mr. Umesh sir and all the volunteers of NSS BIT Sindri and ACE were present on the event.
-        NSS BIT Sindri and ACE initiative towards Badlav was a success and planted seeds of knowledge and empowerment that will undoubtedly flourish in the minds of the youth.
-
-
-
-                "
-        desc1="Date  :-12th March 2024."
-      />
-      <LeftSide
-        src="images/Events/2k24/bloodDonationCamp.jpg"
+        src="images/Events/2k25/bloodDonationCamp.jpg"
         eventName="Blood Donation Camp"
-        desc="A recent blood donation camp held in BIT Sindri campus and it was a resounding success, collecting a 150  units of life-saving blood. Moreover , a team from PMCH Dhanbad has also added the positive atmosphere .This vital contribution to the community couldn't have been possible without dedicated volunteers, and the selfless act of the blood donors.
-        The well-organized camp ensured a smooth process for donors, from registration to refreshments after donation. 
-        The camp's success highlights the power of community. By working together, we can ensure a steady supply of blood and empower medical professionals to save lives.
+        desc="The blood donation camp was organized by NSS BIT Sindri at the Health Centre of the institute in association with Shahid Nirmal Mahto Medical College and Madhumita Edu. Med. Foundation. concluded on a meaningful note. The event reflected the act of selfless giving with enthusiastic participation from faculty members, students and volunteers.
+
+Donors were warmly welcomed, provided with refreshments to ensure their comfort and well-being and appreciated with certificates and mementos for their noble gesture. Each moment of the camp highlighted the importance of social responsibility and empathy.
+
+NSS BIT Sindri took this initiative to encourage awareness about blood donation and to inspire young minds to contribute towards saving lives.
+Presenting the moment from the blood donation camp.
 
 
    "
-        desc1="Date  :-10th March 2024."
+        desc1="Date  :-22nd February 2026."
+      />
+      <LeftSide
+        src="images/Events/2k25/clothDonationDrive2.0.jpg"
+        eventName="Cloth Donation Drive2.0"
+        desc="Driven by this spirit, NSS BIT Sindri organized a cloth donation initiative with the aim of extending warmth, dignity and comfort to those in need. The drive served as a reminder that thoughtful gestures can create meaningful change in the lives of people who often go unnoticed.
+
+Volunteers worked collectively to collect, sort and distribute a wide range of clothing and winter essentials. Phase II reached additional areas and beneficiaries, reflecting greater outreach and coordination ensuring that every donated item reached deserving hands. These glimpses capture the essence of service, where compassion becomes action and small efforts come together to form a larger impact.
+
+NSS BIT Sindri expresses sincere gratitude to every donor and volunteer for contributing to this initiative.Their support made the event purposeful and impactful.
+"
+        desc1="Date  :-12th January 2026."
       />
       <RightSide
-        src="images/Events/2k24/greenMarathon.jpg"
-        eventName="Green Marathon"
-        desc="The NSS BIT Sindri Green Marathon, held on January 23rd, transcended the realm of mere competition and became a collective heartbeat for a healthier planet. Guided by the motto, Run for a Greener Tomorrow, under the esteemed leadership of BITSAA Secretary Sweta Ma'am, Director Pankaj Rai Sir, and Prof in Charge R K Verma Sir, NSS BIT Sindri invited enthusiastic participants to lace up their shoes and take a stride towards environmental awareness.
+        src="images/Events/2k25/khelMahotsav.jpg"
+        eventName="Khel Mahotsav"
+        desc="The Khel Mahotsav, organized by the NSS BIT Sindri at the Rajkiya Buniyadi Vidyalaya, received overwhelming response and interest, where the essence of sportsmanship and fitness was celebrated among the students. The occasion brought along a lively and zestful environment among the students, who enthusiastically participated in different sporting activities.
 
+The Khel Mahotsav provided a platform where students could test themselves, develop teamwork, and bask in the excitement of just participating. The air was thick with joyful smiles, determination, and encouragement as all students demonstrated their talent while also living the true spirit of sports.
+
+NSS BIT Sindri presented medals, trophies and certificates to appreciate the winners. Khel Mahotsav stood as a successful celebration and encouragement of sportsmanship and unity.
 
                 "
-        desc1="Date  :-23th January 2024."
+        desc1="Date  :-18th December 2025."
       />
       <LeftSide
-        src="images/Events/2k24/christmasCelebration.jpg"
-        eventName="Pre Christmas Celebration"
-        desc="NSS BIT SINDRI organized a heartwarming Pre-Christmas Celebration that brought smiles and laughter to the faces of the children of Rajkiya Buniyadi Vidyalaya, BIT Sindri. It was a delightful occasion filled with games and festive cheer.
-        Children eagerly participated in various games that were thoughtfully organized for their enjoyment. Games like kabaddi, three leg race, spoon race, musical chairs, etc. To add to the merriment, there was a special visit from Santa Claus, who distributed cakes and candies to the children. The gleeful expressions on their faces as they received these surprises encapsulated the magic of Christmas.
-        NSS BIT SINDRI looks forward for continuing such heartwarming traditions, ensuring that the spirit of Christmas lives on in the hearts of everyone.
+        src="images/Events/2k25/annualActivismSeminar.jpg"
+        eventName="Annual Activism Seminar"
+        desc="NSS BIT Sindri organized a seminar as part of the Annual Activism for Ending Gender-Based Violence. The program aimed to raise awareness about the various forms of gender-based violence and highlights the importance of creating a safe, respectful and socially just society for all.
 
+The seminar focused on understanding the root causes and serious repercussions of gender-based violence. Through informative discussions, people were encouraged to question deep-rooted stereotypes and take responsibility in preventing violence. The session highlighted that awareness, education is the key tools for empowerment.
+
+When awareness leads to action, justice follows. NSS BIT Sindri sincerely thanks all speakers, volunteers and participants for their valuable contributions.
 
    "
-        desc1="Date  :-14th December 2023."
+        desc1="Date  :-13th December 2025."
       />
       <RightSide
-        src="images/Events/2k24/clothesDonation.jpg"
-        eventName="Clothes Donation Drive"
-        desc="Cloth Donation Drive phase-2 was organized by NSS BIT SINDRI near Sindri Town Station to donate clothes which were collected from students and professors. We are thrilled to announce the successful completion of our recent cloth donation drive, thanks to the unwavering support and dedication of our amazing volunteers.
-        This is not a end of the scheduled of cloth donation drive, more clothes are to be donated at different places.
-        We express heartfelt gratitude to everyone who generously contributed cherished donations to our cause. Thank you for being a part of this meaningful journey.
+        src="images/Events/2k25/clothesDonationDrive1.0.jpg"
+        eventName="Clothes Donation Drive1.0"
+        desc="NSS BIT Sindri successfully organized and executed the Cloth Donation Camp. The objective of this initiative was to share warmth and essential necessities with the people in need. It was a rewarding experience to see the positive impact of the donations firsthand.
+
+During the event, a strong sense of compassion was evident as volunteers and members distributed clothing, blankets and other necessary items. This collaborative moment highlighted the generosity of the community, where everyone worked together for the better living conditions of the needy.
+
+NSS BIT Sindri extends its heartfelt gratitude to everyone who contributed — be it through generous donations or by spreading awareness about the cause. Your compassion and support have truly brought warmth, hope and happiness to many lives.
 
                 "
-        desc1="Date  :-24th December 2023."
+        desc1="Date  :-10th December 2025."
       />
       <LeftSide
-        src="images/Events/2k24/reapprochement4.jpg"
-        eventName="Reapprochement 4.0"
-        desc="On the 28th of October 2023, NSS BIT Sindri Coordinated an enlightening and knowledge-enriching Mental Health Awareness webinar.
-        Anupriya Gupta ma’am, our esteemed guest speaker brought forth a wealth of knowledge and perspectives on various facets of mental health. She had discussed the root causes of mental illness and offered practical solutions for addressing them. Our conversation delved into positive thinking, mindful breathing practices, the benefits of yoga and the significance of a balanced diet.
-        NSS BIT Sindri extends heartfelt gratitude to our distinguished speaker and our engaged viewers.
-        Stay tuned, for next year we will return with another empowering edition of RAPPROCHEMENT.
+        src="images/Events/2k25/janjatiyaGauravDiwas.jpg"
+        eventName="Janjatiya Gaurav Diwas"
+        desc="Hello Folks!
+As we celebrate the foundation of our beloved state, Jharkhand, NSS BIT Sindri proudly presents Janjatiya Gourav Diwas, a vibrant event series dedicated to honoring the heritage, resilience and pride of our land.
 
+The highlight of the celebration is the Debate Competition, where participants will express their views on Jharkhand’s growth, identity and progress. Adding to the excitement, the Quiz Competition—will test their knowledge about Jharkhand’s history, culture and heroes.
+
+The celebration also features a Cultural Heritage Program, showcasing Jharkhand’s rich art, tradition and tribal legacy. Together, these events blend intellect, culture and pride encouraging everyone to celebrate Jharkhand Sthapna Diwas with unity and enthusiasm
    "
-        desc1="Date  :-28th October 2023."
+        desc1="Date  :-14th and 15th November 2025."
       />
       
       
@@ -128,90 +139,18 @@ const E25 = () => {
       
 
       <RightSide
-        src="images/Events/2k24/wow2.webp"
-        eventName="Swatantra: War Of Words (W.O.W) Season 2"
-        desc="As part of their Swatantra initiative, NSS BIT Sindri hosted the dynamic War of Words debate
-        competition, which unfolded in two captivating seasons. Season One kicked off as an online
-        challenge, where participants engaged in thought-provoking group discussions on a wide array
-        of topics. This season served as a test of knowledge and adaptability in the digital age.
-        Transitioning into Season Two, the competition took on an offline triumph, with participants
-        gathering in person for riveting debate rounds. This shift to an offline format allowed debaters to
-        bring their online experiences to life and further hone their persuasive communication skills.
-        Both seasons of War of Words celebrated the immense power of words, fostering critical
-        thinking and eloquence among participants. It served as a testament to intellectual growth and
-        the art of compelling argumentation and persuasion, embodying the essence of the Swatantra
-        initiative.
+        src="images/Events/2k25/mentalHealthAwareness.jpg"
+        eventName="Webinar Mental Health Awareness"
+        desc="NSS BIT Sindri organized a webinar on mental health awareness titled Rapprochement, which aimed to provide a platform for individuals to discuss their mental health struggles.The webinar featured mentor Dr. Anupriya Gupta ma'am who shared valuable insights and strategies for maintaining good mental health.
+
+The event was a huge success, with participants actively engaging with the speakers and sharing their experiences. The webinar helped break down stigma surrounding mental health issues and encouraged attendees to prioritize their well-being. By hosting this event, NSS BIT Sindri demonstrated its commitment to promoting mental health awareness.
+
+NSS BIT Sindri congratulates all participants and organizers for making Rapprochement a success. May the webinar inspire individuals to prioritize their mental health and may it serve as a stepping stone for future initiatives promoting mental health awareness.
+
                 "
-        desc1="Date  :-15th August 2023."
+        desc1="Date  :-12th October 2025."
       />
-      <LeftSide
-        src="images/Events/2k24/fg.webp"
-        eventName="Swatantra:Flag Code"
-        desc="At the heart of the event on 15th August lay a profound reverence for the flag code—an initiative
-        aimed at raising awareness. During this program, dedicated NSS volunteers undertook the
-        noble task of elucidating the proper protocols for handling the Indian National Flag. Participants
-        were thoroughly educated on the intricacies of the Flag codes, meticulously outlined by the
-        Home Ministry of India. This enlightening session encompassed not only the correct positioning
-        of the flag but also the appropriate procedures for the dignified disposal of a damaged or
-        defected Indian flag. This event, aligned with the principles of Swatantra, symbolized our
-        collective commitment to upholding the sanctity and honor of our national emblem, reinforcing
-        the significance of responsible flag etiquette in the minds of all participants.
-   "
-        desc1="Date  :-15th August 2023."
-      />
-      <RightSide
-        src="images/Events/2k24/yoga2.webp"
-        eventName="International Yoga Day Webinar"
-        desc=" On International Yoga Day, NSS BIT Sindri took the initiative to promote the holistic benefits of
-        yoga, catering to individuals of all ages, by organizing an enlightening webinar. The event
-        served as a platform to raise awareness about the numerous physical and mental health
-        advantages that yoga offers, ultimately contributing to improved well-being. The guest of honor,
-        Sonali Singh, a distinguished faculty member at Art of Living, brought her expertise and
-        experience to the forefront, leading the participants through an engaging and instructive yoga
-        session. With enthusiasm and wholehearted participation, attendees embraced the opportunity
-        to explore the world of yoga, discovering its profound effects on both their physical and mental
-        fitness. The event undoubtedly succeeded in spreading the message of yoga's immense
-        potential to foster overall health and wellness, leaving participants enriched and motivated to
-        incorporate yoga into their daily lives.
-       "
-        desc1="Date :- 21st June 2023"
-      />
-      <LeftSide
-        src="images/Events/2k24/ambient2.jpg"
-        eventName="Ambient 2.0"
-        desc="On World Environment Day, NSS BIT Sindri orchestrated an intellectually invigorating quiz
-        competition known as AMBIENTE 2.0, offering participants the thrilling pursuit of knowledge as
-        each answer unlocked new realms of understanding. This online event provided an excellent
-        opportunity for participants to showcase their environmental knowledge and engage in a spirit of
-        healthy competition with like-minded enthusiasts. The competition resonated with the core
-        values of environmental awareness and sustainable living, making it a fitting tribute to the
-        occasion. Participants, from the comfort of their screens, delved into a world of ecocentric
-        questions and challenges, reinforcing their commitment to our planet's well-being. AMBIENTE
-        2.0 was a remarkable initiative that not only tested participants' environmental acumen but also
-        fostered a sense of responsibility towards the Earth.
-   "
-        desc1="Date  :-5th June 2023"
-      />
-      <RightSide
-        src="images/Events/2k24/toba.jpg"
-        eventName="No Tobacco Day Survey"
-        desc="In a recent Tobacco Behavior Survey conducted by NSS BIT SINDRI on World No Tobacco Day,
-          a startling revelation emerged: our youth are increasingly taking up smoking at an alarming
-          early age, with the habit often beginning between the ages of 13 to 19. This concerning trend
-          underscores the pressing need for urgent action to address this growing issue among our young
-          population.
-          On a more optimistic note, the survey also uncovered a silver lining—more than 50% of
-          smokers expressed a strong desire to quit. This willingness to break free from the shackles of
-          tobacco addiction presents an opportunity for positive change. In response to this, NSS
-          suggests a practical approach: those looking to quit smoking should consider reducing their
-          cigarette consumption and transitioning to nicotine gums as an alternative. Additionally, seeking
-          medical assistance for a structured quitting plan is highly encouraged.
-          NSS BIT SINDRI extends heartfelt gratitude to all the participants who dedicated their time to
-          contribute to this crucial survey. Your engagement is a crucial step towards creating a healthier,
-          tobacco-free future for our youth and our nation. Together, we can make a difference.
-   "
-        desc1="Date  :-31st May 2023"
-      />
+      
       
     </div>
   );
